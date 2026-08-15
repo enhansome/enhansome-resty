@@ -58,7 +58,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13994
+            "stars": 13996
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11785
+            "stars": 11787
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-07-17T08:18:55Z",
             "owner": "openresty",
             "repo": "headers-more-nginx-module",
-            "stars": 1785
+            "stars": 1784
           }
         },
         {
@@ -358,7 +358,7 @@
             "last_commit": "2023-04-21T14:50:27Z",
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
-            "stars": 4340
+            "stars": 4339
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43984
+            "stars": 43986
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-08-14T09:59:27Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 16995
+            "stars": 16996
           }
         },
         {
@@ -4476,7 +4476,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T13:14:46Z",
+            "last_commit": "2026-08-15T09:13:03Z",
             "owner": "lunarmodules",
             "repo": "Penlight",
             "stars": 2121
@@ -4771,7 +4771,7 @@
             "last_commit": "2026-06-10T13:32:40Z",
             "owner": "C0nw0nk",
             "repo": "Nginx-Lua-Anti-DDoS",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -4810,7 +4810,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4551
+            "stars": 4550
           }
         },
         {
@@ -4846,7 +4846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:19:32.454Z",
+    "last_updated": "2026-08-15T13:39:38.225Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
     "enhanced_repository": "enhansome/enhansome-resty",
