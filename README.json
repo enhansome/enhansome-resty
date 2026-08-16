@@ -1177,7 +1177,7 @@
             "last_commit": "2025-06-10T03:34:53Z",
             "owner": "vm-001",
             "repo": "lua-radix-router",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-08-04T09:27:18Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43986
+            "stars": 43987
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-08-14T09:59:27Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 16996
+            "stars": 16998
           }
         },
         {
@@ -3095,7 +3095,7 @@
             "last_commit": "2024-10-20T21:48:45Z",
             "owner": "brendangregg",
             "repo": "FlameGraph",
-            "stars": 19671
+            "stars": 19672
           }
         },
         {
@@ -3137,7 +3137,7 @@
             "last_commit": "2026-07-30T12:47:38Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1627
+            "stars": 1628
           }
         },
         {
@@ -4335,7 +4335,7 @@
             "last_commit": "2026-03-02T04:38:40Z",
             "owner": "lebinh",
             "repo": "ngxtop",
-            "stars": 6524
+            "stars": 6525
           }
         },
         {
@@ -4465,7 +4465,7 @@
             "last_commit": "2025-04-15T14:55:30Z",
             "owner": "luafun",
             "repo": "luafun",
-            "stars": 2259
+            "stars": 2260
           }
         },
         {
@@ -4479,7 +4479,7 @@
             "last_commit": "2026-08-15T09:13:03Z",
             "owner": "lunarmodules",
             "repo": "Penlight",
-            "stars": 2121
+            "stars": 2122
           }
         },
         {
@@ -4771,7 +4771,7 @@
             "last_commit": "2026-06-10T13:32:40Z",
             "owner": "C0nw0nk",
             "repo": "Nginx-Lua-Anti-DDoS",
-            "stars": 1624
+            "stars": 1623
           }
         },
         {
@@ -4810,7 +4810,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4550
+            "stars": 4552
           }
         },
         {
@@ -4846,7 +4846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:39:38.225Z",
+    "last_updated": "2026-08-16T13:41:12.867Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
     "enhanced_repository": "enhansome/enhansome-resty",
