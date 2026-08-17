@@ -58,7 +58,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13996
+            "stars": 14002
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11787
+            "stars": 11788
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-07-17T08:18:55Z",
             "owner": "openresty",
             "repo": "headers-more-nginx-module",
-            "stars": 1784
+            "stars": 1782
           }
         },
         {
@@ -506,7 +506,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-17T08:25:01Z",
+            "last_commit": "2026-08-17T01:20:49Z",
             "owner": "openresty",
             "repo": "lua-resty-websocket",
             "stars": 523
@@ -1360,10 +1360,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-04T09:27:18Z",
+            "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43987
+            "stars": 43988
           }
         },
         {
@@ -1374,10 +1374,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T09:59:27Z",
+            "last_commit": "2026-08-17T09:43:37Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 16998
+            "stars": 17000
           }
         },
         {
@@ -1537,7 +1537,7 @@
             "last_commit": "2023-10-02T15:30:26Z",
             "owner": "leafo",
             "repo": "etlua",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -1647,7 +1647,7 @@
             "last_commit": "2026-07-01T14:56:19Z",
             "owner": "zmartzone",
             "repo": "lua-resty-openidc",
-            "stars": 1072
+            "stars": 1073
           }
         },
         {
@@ -1723,7 +1723,7 @@
             "last_commit": "2026-01-21T20:45:31Z",
             "owner": "auto-ssl",
             "repo": "lua-resty-auto-ssl",
-            "stars": 1986
+            "stars": 1987
           }
         },
         {
@@ -2029,7 +2029,7 @@
             "last_commit": "2026-08-11T08:14:16Z",
             "owner": "ledgetech",
             "repo": "lua-resty-http",
-            "stars": 2081
+            "stars": 2079
           }
         },
         {
@@ -2068,7 +2068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-17T08:25:01Z",
+            "last_commit": "2026-08-17T01:20:49Z",
             "owner": "openresty",
             "repo": "lua-resty-websocket",
             "stars": 523
@@ -3095,7 +3095,7 @@
             "last_commit": "2024-10-20T21:48:45Z",
             "owner": "brendangregg",
             "repo": "FlameGraph",
-            "stars": 19672
+            "stars": 19674
           }
         },
         {
@@ -3351,7 +3351,7 @@
             "last_commit": "2026-01-05T16:28:00Z",
             "owner": "kikito",
             "repo": "inspect.lua",
-            "stars": 1539
+            "stars": 1538
           }
         },
         {
@@ -4771,7 +4771,7 @@
             "last_commit": "2026-06-10T13:32:40Z",
             "owner": "C0nw0nk",
             "repo": "Nginx-Lua-Anti-DDoS",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -4838,7 +4838,7 @@
             "last_commit": "2024-06-11T11:37:22Z",
             "owner": "forhappy",
             "repo": "awesome-lua",
-            "stars": 408
+            "stars": 409
           }
         }
       ],
@@ -4846,7 +4846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:41:12.867Z",
+    "last_updated": "2026-08-17T13:50:20.450Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
     "enhanced_repository": "enhansome/enhansome-resty",
