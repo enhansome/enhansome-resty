@@ -58,7 +58,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14002
+            "stars": 14001
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-07-17T09:23:53Z",
             "owner": "openresty",
             "repo": "srcache-nginx-module",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2023-11-08T09:27:13Z",
             "owner": "nbs-system",
             "repo": "naxsi",
-            "stars": 4813
+            "stars": 4811
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-06-09T13:46:34Z",
             "owner": "slact",
             "repo": "nchan",
-            "stars": 3063
+            "stars": 3064
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43988
+            "stars": 43994
           }
         },
         {
@@ -1374,10 +1374,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-17T09:43:37Z",
+            "last_commit": "2026-08-18T10:57:05Z",
             "owner": "apache",
             "repo": "apisix",
-            "stars": 17000
+            "stars": 17005
           }
         },
         {
@@ -2634,7 +2634,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T15:42:35Z",
+            "last_commit": "2026-08-17T15:20:39Z",
             "owner": "api7",
             "repo": "lua-resty-etcd",
             "stars": 203
@@ -3095,7 +3095,7 @@
             "last_commit": "2024-10-20T21:48:45Z",
             "owner": "brendangregg",
             "repo": "FlameGraph",
-            "stars": 19674
+            "stars": 19677
           }
         },
         {
@@ -4768,10 +4768,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-06-10T13:32:40Z",
+            "last_commit": "2026-08-18T11:52:58Z",
             "owner": "C0nw0nk",
             "repo": "Nginx-Lua-Anti-DDoS",
-            "stars": 1624
+            "stars": 1625
           }
         },
         {
@@ -4846,7 +4846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:50:20.450Z",
+    "last_updated": "2026-08-18T13:54:02.879Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
     "enhanced_repository": "enhansome/enhansome-resty",
