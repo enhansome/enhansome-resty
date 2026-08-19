@@ -1450,7 +1450,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44002
+                "stars": 44003
               }
             },
             {
@@ -5148,7 +5148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:05.691Z",
+    "last_updated": "2026-08-19T13:54:10.437Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",

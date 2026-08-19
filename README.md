@@ -263,7 +263,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,002 | 🐛 189 | 🌐 Lua | 📅 2026-08-16) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,003 | 🐛 189 | 🌐 Lua | 📅 2026-08-16) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
 * [APISIX](https://github.com/iresty/apisix) ⭐ 17,005 | 🐛 243 | 🌐 Lua | 📅 2026-08-19 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,308 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
