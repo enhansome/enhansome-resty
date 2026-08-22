@@ -89,7 +89,7 @@ Core modules come bundled in OpenResty package.
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,789 | 🐛 392 | 🌐 C | 📅 2026-08-14 — Embed the power of Lua into Nginx
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,784 | 🐛 52 | 🌐 C | 📅 2026-07-17 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,193 | 🐛 32 | 🌐 C | 📅 2026-07-17 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
-* [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,028 | 🐛 4 | 🌐 C | 📅 2025-02-20 — an Nginx module that adds additional generic tools that module developers can use in their own modules
+* [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,027 | 🐛 4 | 🌐 C | 📅 2025-02-20 — an Nginx module that adds additional generic tools that module developers can use in their own modules
 * [redis2-nginx-module](https://github.com/openresty/redis2-nginx-module) ⭐ 905 | 🐛 29 | 🌐 C | 📅 2026-07-17 — Nginx upstream module for the Redis 2.0 protocol
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) ⭐ 750 | 🐛 49 | 🌐 C | 📅 2026-07-17 — Embed the power of Lua into Nginx stream/TCP Servers
 * [ngx\_postgres](https://github.com/FRiCKLE/ngx_postgres) ⭐ 551 | 🐛 37 | 🌐 C | 📅 2020-09-29 — Upstream module that allows Nginx to communicate directly with PostgreSQL database
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,016 | 🐛 189 | 🌐 Lua | 📅 2026-08-16) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,015 | 🐛 251 | 🌐 Lua | 📅 2026-08-20 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,020 | 🐛 189 | 🌐 Lua | 📅 2026-08-16) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,016 | 🐛 253 | 🌐 Lua | 📅 2026-08-20 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,308 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 323 | 🐛 61 | 🌐 Lua | 📅 2026-07-20 — API gateway module of Red Hat 3scale API Management
@@ -550,7 +550,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 #### Functional Programming
 
 * [Lua Fun](https://github.com/rtsisyk/luafun) ⭐ 2,260 | 🐛 46 | 🌐 Lua | 📅 2025-04-15 — Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind
-* [Penlight](https://github.com/stevedonovan/Penlight) ⭐ 2,124 | 🐛 44 | 🌐 Lua | 📅 2026-08-15 — Penlight brings together a set of generally useful pure Lua modules, focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions, etc), and OS path management
+* [Penlight](https://github.com/stevedonovan/Penlight) ⭐ 2,125 | 🐛 44 | 🌐 Lua | 📅 2026-08-15 — Penlight brings together a set of generally useful pure Lua modules, focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions, etc), and OS path management
 * [Moses](https://github.com/Yonaba/Moses) ⭐ 655 | 🐛 5 | 🌐 Lua | 📅 2019-12-18 — A Lua utility-belt library for functional programming. It complements the built-in Lua table library, making easier operations on arrays, lists, collections
 * [Underscore.lua](https://github.com/mirven/underscore.lua) ⭐ 403 | 🐛 15 | 🌐 Lua | 📅 2016-03-22 — Underscore.lua is a Lua library that provides a set of utility functions for dealing with iterators, arrays, tables, and functions
 * [Lodash.lua](https://github.com/axmat/lodash.lua) ⭐ 67 | 🐛 4 | 🌐 Lua | 📅 2022-12-02 — A functional programming library for Lua in respect to the Javascript library Lodash
@@ -640,4 +640,4 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
