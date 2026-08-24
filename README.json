@@ -1119,7 +1119,7 @@
                 "archived": false,
                 "id": 20531891,
                 "language": "Lua",
-                "last_commit": "2026-08-24T14:05:00Z",
+                "last_commit": "2026-08-24T14:05:48Z",
                 "owner": "bungle",
                 "repo": "lua-resty-session",
                 "stars": 343
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17024
+                "stars": 17025
               }
             },
             {
@@ -3284,7 +3284,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19688
+                "stars": 19689
               }
             },
             {
@@ -5220,7 +5220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:35.148Z",
+    "last_updated": "2026-08-24T15:06:44.722Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
