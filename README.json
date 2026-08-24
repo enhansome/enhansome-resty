@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 480080,
                 "language": "C",
-                "last_commit": "2026-08-14T07:32:25Z",
+                "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14007
+                "stars": 14008
               }
             },
             {
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 613829,
                 "language": "C",
-                "last_commit": "2026-08-14T07:31:37Z",
+                "last_commit": "2026-08-24T09:16:22Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11787
+                "stars": 11788
               }
             },
             {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 374483,
                 "language": "C",
-                "last_commit": "2026-07-17T08:18:55Z",
+                "last_commit": "2026-08-24T07:43:15Z",
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
                 "stars": 1784
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 318905,
                 "language": "C",
-                "last_commit": "2026-07-17T07:50:59Z",
+                "last_commit": "2026-08-24T07:23:17Z",
                 "owner": "openresty",
                 "repo": "echo-nginx-module",
                 "stars": 1193
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 1167878,
                 "language": "C",
-                "last_commit": "2026-07-17T09:24:32Z",
+                "last_commit": "2026-08-24T07:47:05Z",
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
                 "stars": 905
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 49554190,
                 "language": "C",
-                "last_commit": "2026-07-17T09:28:14Z",
+                "last_commit": "2026-08-24T07:47:53Z",
                 "owner": "openresty",
                 "repo": "stream-lua-nginx-module",
                 "stars": 750
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 15853845,
                 "language": "C",
-                "last_commit": "2026-07-17T08:01:53Z",
+                "last_commit": "2026-08-24T07:36:07Z",
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
                 "stars": 511
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 658456,
                 "language": "C",
-                "last_commit": "2026-07-17T09:23:53Z",
+                "last_commit": "2026-08-24T07:37:26Z",
                 "owner": "openresty",
                 "repo": "srcache-nginx-module",
                 "stars": 486
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 498791,
                 "language": "C",
-                "last_commit": "2026-07-17T09:25:28Z",
+                "last_commit": "2026-08-24T07:37:15Z",
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
                 "stars": 402
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 386256,
                 "language": "C",
-                "last_commit": "2026-07-17T07:50:22Z",
+                "last_commit": "2026-08-24T07:32:25Z",
                 "owner": "openresty",
                 "repo": "drizzle-nginx-module",
                 "stars": 335
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 382367,
                 "language": "C",
-                "last_commit": "2026-07-17T09:25:05Z",
+                "last_commit": "2026-08-24T07:36:16Z",
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
                 "stars": 213
@@ -245,7 +245,7 @@
                 "archived": false,
                 "id": 669625,
                 "language": "C",
-                "last_commit": "2026-07-17T09:22:51Z",
+                "last_commit": "2026-08-24T07:23:29Z",
                 "owner": "openresty",
                 "repo": "encrypted-session-nginx-module",
                 "stars": 203
@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 468617,
                 "language": "C",
-                "last_commit": "2026-07-17T09:23:21Z",
+                "last_commit": "2026-08-24T07:36:32Z",
                 "owner": "openresty",
                 "repo": "rds-json-nginx-module",
                 "stars": 154
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 481928,
                 "language": "C",
-                "last_commit": "2026-07-17T08:25:57Z",
+                "last_commit": "2026-08-24T07:37:50Z",
                 "owner": "openresty",
                 "repo": "xss-nginx-module",
                 "stars": 151
@@ -305,7 +305,7 @@
                 "archived": false,
                 "id": 510988,
                 "language": "C",
-                "last_commit": "2026-07-17T09:21:11Z",
+                "last_commit": "2026-08-24T07:14:30Z",
                 "owner": "openresty",
                 "repo": "array-var-nginx-module",
                 "stars": 68
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 2283707,
                 "language": "C",
-                "last_commit": "2026-07-17T09:22:25Z",
+                "last_commit": "2026-08-24T07:36:24Z",
                 "owner": "openresty",
                 "repo": "rds-csv-nginx-module",
                 "stars": 21
@@ -475,7 +475,7 @@
                 "archived": false,
                 "id": 3366743,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:23:46Z",
+                "last_commit": "2026-08-24T07:34:57Z",
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
@@ -490,7 +490,7 @@
                 "archived": false,
                 "id": 9782547,
                 "language": "Lua",
-                "last_commit": "2026-07-17T09:28:44Z",
+                "last_commit": "2026-08-24T07:43:56Z",
                 "owner": "openresty",
                 "repo": "lua-resty-core",
                 "stars": 853
@@ -520,7 +520,7 @@
                 "archived": false,
                 "id": 16270774,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:24:36Z",
+                "last_commit": "2026-08-24T07:35:43Z",
                 "owner": "openresty",
                 "repo": "lua-resty-upstream-healthcheck",
                 "stars": 544
@@ -535,7 +535,7 @@
                 "archived": false,
                 "id": 12722647,
                 "language": "Lua",
-                "last_commit": "2026-08-17T01:20:49Z",
+                "last_commit": "2026-08-24T07:35:51Z",
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
                 "stars": 523
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 16964589,
                 "language": "C",
-                "last_commit": "2026-06-28T11:39:44Z",
+                "last_commit": "2026-08-24T07:14:55Z",
                 "owner": "openresty",
                 "repo": "lua-cjson",
                 "stars": 498
@@ -580,7 +580,7 @@
                 "archived": false,
                 "id": 3560530,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:24:07Z",
+                "last_commit": "2026-08-24T07:35:25Z",
                 "owner": "openresty",
                 "repo": "lua-resty-string",
                 "stars": 443
@@ -595,7 +595,7 @@
                 "archived": false,
                 "id": 3386972,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:24:25Z",
+                "last_commit": "2026-08-24T07:35:34Z",
                 "owner": "openresty",
                 "repo": "lua-resty-upload",
                 "stars": 414
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 5268553,
                 "language": "Lua",
-                "last_commit": "2026-07-17T07:51:56Z",
+                "last_commit": "2026-08-24T07:34:12Z",
                 "owner": "openresty",
                 "repo": "lua-resty-dns",
                 "stars": 338
@@ -625,7 +625,7 @@
                 "archived": false,
                 "id": 13136767,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:19:51Z",
+                "last_commit": "2026-08-24T07:34:37Z",
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
                 "stars": 323
@@ -640,7 +640,7 @@
                 "archived": false,
                 "id": 3334760,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:21:58Z",
+                "last_commit": "2026-08-24T07:34:49Z",
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216
@@ -655,7 +655,7 @@
                 "archived": false,
                 "id": 168475284,
                 "language": "Raku",
-                "last_commit": "2026-07-17T07:52:27Z",
+                "last_commit": "2026-08-24T07:35:08Z",
                 "owner": "openresty",
                 "repo": "lua-resty-shell",
                 "stars": 133
@@ -670,7 +670,7 @@
                 "archived": false,
                 "id": 71513523,
                 "language": "Raku",
-                "last_commit": "2026-07-17T08:01:37Z",
+                "last_commit": "2026-08-24T07:36:02Z",
                 "owner": "openresty",
                 "repo": "lua-tablepool",
                 "stars": 122
@@ -700,7 +700,7 @@
                 "archived": false,
                 "id": 168475066,
                 "language": "Raku",
-                "last_commit": "2026-07-17T07:52:39Z",
+                "last_commit": "2026-08-24T07:35:16Z",
                 "owner": "openresty",
                 "repo": "lua-resty-signal",
                 "stars": 34
@@ -1119,7 +1119,7 @@
                 "archived": false,
                 "id": 20531891,
                 "language": "Lua",
-                "last_commit": "2025-11-24T15:49:00Z",
+                "last_commit": "2026-08-24T14:05:00Z",
                 "owner": "bungle",
                 "repo": "lua-resty-session",
                 "stars": 343
@@ -1450,7 +1450,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44025
+                "stars": 44029
               }
             },
             {
@@ -1462,10 +1462,10 @@
                 "archived": false,
                 "id": 180481986,
                 "language": "Lua",
-                "last_commit": "2026-08-20T10:17:33Z",
+                "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17019
+                "stars": 17024
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "archived": false,
                 "id": 3560530,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:24:07Z",
+                "last_commit": "2026-08-24T07:35:25Z",
                 "owner": "openresty",
                 "repo": "lua-resty-string",
                 "stars": 443
@@ -2187,7 +2187,7 @@
                 "archived": false,
                 "id": 41801866,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:19:35Z",
+                "last_commit": "2026-08-24T07:44:29Z",
                 "owner": "openresty",
                 "repo": "lua-resty-limit-traffic",
                 "stars": 852
@@ -2202,7 +2202,7 @@
                 "archived": false,
                 "id": 12722647,
                 "language": "Lua",
-                "last_commit": "2026-08-17T01:20:49Z",
+                "last_commit": "2026-08-24T07:35:51Z",
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
                 "stars": 523
@@ -2719,7 +2719,7 @@
                 "archived": false,
                 "id": 3366743,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:23:46Z",
+                "last_commit": "2026-08-24T07:34:57Z",
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
@@ -2752,7 +2752,7 @@
                 "last_commit": "2026-08-11T14:59:08Z",
                 "owner": "leafo",
                 "repo": "pgmoon",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -2794,7 +2794,7 @@
                 "archived": false,
                 "id": 3334760,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:21:58Z",
+                "last_commit": "2026-08-24T07:34:49Z",
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216
@@ -3284,7 +3284,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19685
+                "stars": 19688
               }
             },
             {
@@ -3296,7 +3296,7 @@
                 "archived": false,
                 "id": 3366743,
                 "language": "Lua",
-                "last_commit": "2026-07-17T08:23:46Z",
+                "last_commit": "2026-08-24T07:34:57Z",
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
@@ -3560,7 +3560,7 @@
                 "last_commit": "2026-01-05T16:28:00Z",
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1537
+                "stars": 1538
               }
             },
             {
@@ -4499,6 +4499,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "lua-resty-gettext",
+              "description": "LuaJIT FFI-based gettext library for OpenResty",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20197630,
+                "language": "Lua",
+                "last_commit": "2015-12-16T20:55:07Z",
+                "owner": "bungle",
+                "repo": "lua-resty-gettext",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "lua-resty-lrucache",
               "description": "Lua-land LRU Cache based on LuaJIT FFI",
               "children": [],
@@ -4740,7 +4762,7 @@
                 "last_commit": "2025-04-15T14:55:30Z",
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2260
+                "stars": 2261
               }
             },
             {
@@ -5069,7 +5091,7 @@
                 "last_commit": "2026-08-19T12:09:17Z",
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1627
+                "stars": 1628
               }
             },
             {
@@ -5094,6 +5116,56 @@
         }
       ],
       "title": "Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenResty Best Practices",
+              "description": "(GitBook) (Chinese, use e.g. Google Translate)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34766570,
+                "language": "Lua",
+                "last_commit": "2024-06-13T09:29:15Z",
+                "owner": "moonbingbing",
+                "repo": "openresty-best-practices",
+                "stars": 3608
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nginx Configuration Snippets",
+              "description": "A collection of useful Nginx configuration snippets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30537345,
+                "language": null,
+                "last_commit": "2017-10-13T14:36:47Z",
+                "owner": "lebinh",
+                "repo": "nginx-conf",
+                "stars": 2116
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials and Guides"
+        }
+      ],
+      "title": "Books and Tutorials"
     },
     {
       "description": null,
@@ -5148,7 +5220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:41:48.884Z",
+    "last_updated": "2026-08-24T14:05:35.148Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
