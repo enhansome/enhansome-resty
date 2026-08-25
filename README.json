@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14010
+                "stars": 14011
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T09:16:22Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11788
+                "stars": 11787
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-24T07:43:15Z",
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
-                "stars": 1784
+                "stars": 1783
               }
             },
             {
@@ -1450,7 +1450,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44033
+                "stars": 44032
               }
             },
             {
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17028
+                "stars": 17030
               }
             },
             {
@@ -4628,7 +4628,7 @@
                 "last_commit": "2026-03-02T04:38:40Z",
                 "owner": "lebinh",
                 "repo": "ngxtop",
-                "stars": 6524
+                "stars": 6525
               }
             },
             {
@@ -5220,7 +5220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:08.081Z",
+    "last_updated": "2026-08-25T14:00:11.389Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
