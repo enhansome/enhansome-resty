@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14008
+                "stars": 14010
               }
             },
             {
@@ -1450,7 +1450,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44029
+                "stars": 44033
               }
             },
             {
@@ -1465,7 +1465,7 @@
                 "last_commit": "2026-08-24T08:34:19Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17025
+                "stars": 17028
               }
             },
             {
@@ -1507,10 +1507,10 @@
                 "archived": false,
                 "id": 53965666,
                 "language": "Lua",
-                "last_commit": "2026-07-20T01:50:17Z",
+                "last_commit": "2026-08-25T01:45:07Z",
                 "owner": "3scale",
                 "repo": "APIcast",
-                "stars": 323
+                "stars": 324
               }
             },
             {
@@ -2160,7 +2160,7 @@
                 "last_commit": "2026-08-11T08:14:16Z",
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
-                "stars": 2079
+                "stars": 2078
               }
             },
             {
@@ -3326,7 +3326,7 @@
                 "archived": false,
                 "id": 5336227,
                 "language": "Lua",
-                "last_commit": "2026-07-30T12:47:38Z",
+                "last_commit": "2026-08-24T19:26:19Z",
                 "owner": "lunarmodules",
                 "repo": "busted",
                 "stars": 1629
@@ -5134,7 +5134,7 @@
                 "last_commit": "2024-06-13T09:29:15Z",
                 "owner": "moonbingbing",
                 "repo": "openresty-best-practices",
-                "stars": 3608
+                "stars": 3609
               }
             }
           ],
@@ -5197,7 +5197,7 @@
             "last_commit": "2026-08-04T13:42:10Z",
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3805
+            "stars": 3806
           }
         },
         {
@@ -5220,7 +5220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:44.722Z",
+    "last_updated": "2026-08-25T05:57:08.081Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
