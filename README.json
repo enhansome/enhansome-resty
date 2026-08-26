@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14011
+                "stars": 14012
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-24T07:36:07Z",
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
-                "stars": 511
+                "stars": 512
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-06-09T13:46:34Z",
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3064
+                "stars": 3065
               }
             },
             {
@@ -625,7 +625,7 @@
                 "archived": false,
                 "id": 13136767,
                 "language": "Lua",
-                "last_commit": "2026-08-24T07:34:37Z",
+                "last_commit": "2026-08-26T01:58:38Z",
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
                 "stars": 323
@@ -1450,7 +1450,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44032
+                "stars": 44043
               }
             },
             {
@@ -1462,10 +1462,10 @@
                 "archived": false,
                 "id": 180481986,
                 "language": "Lua",
-                "last_commit": "2026-08-24T08:34:19Z",
+                "last_commit": "2026-08-26T09:38:39Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17030
+                "stars": 17036
               }
             },
             {
@@ -1507,7 +1507,7 @@
                 "archived": false,
                 "id": 53965666,
                 "language": "Lua",
-                "last_commit": "2026-08-25T01:45:07Z",
+                "last_commit": "2026-08-25T23:43:39Z",
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 324
@@ -1838,7 +1838,7 @@
                 "last_commit": "2026-01-21T20:45:31Z",
                 "owner": "auto-ssl",
                 "repo": "lua-resty-auto-ssl",
-                "stars": 1987
+                "stars": 1988
               }
             },
             {
@@ -3284,7 +3284,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19689
+                "stars": 19694
               }
             },
             {
@@ -3326,7 +3326,7 @@
                 "archived": false,
                 "id": 5336227,
                 "language": "Lua",
-                "last_commit": "2026-08-24T19:26:19Z",
+                "last_commit": "2026-08-25T14:38:05Z",
                 "owner": "lunarmodules",
                 "repo": "busted",
                 "stars": 1629
@@ -5182,7 +5182,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4555
+            "stars": 4556
           }
         },
         {
@@ -5220,7 +5220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:00:11.389Z",
+    "last_updated": "2026-08-26T14:01:22.823Z",
     "original_repository": "bungle/awesome-resty",
     "original_repository_id": 30886767,
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
