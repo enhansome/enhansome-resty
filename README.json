@@ -16,7 +16,8 @@
             "owner": "bungle",
             "repo": "awesome-resty",
             "stars": 2484
-          }
+          },
+          "first_seen": "2026-08-28T23:00:30.579Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bungle",
             "repo": "awesome-resty",
             "stars": 2484
-          }
+          },
+          "first_seen": "2026-08-28T23:00:30.579Z"
         }
       ],
       "title": "How to Contribute on this List?"
@@ -53,8 +55,9 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14015
-              }
+                "stars": 14018
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -68,8 +71,9 @@
                 "last_commit": "2026-08-24T09:16:22Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11789
-              }
+                "stars": 11790
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
                 "stars": 1783
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "openresty",
                 "repo": "echo-nginx-module",
                 "stars": 1193
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "vision5",
                 "repo": "ngx_devel_kit",
                 "stars": 1027
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "openresty",
                 "repo": "stream-lua-nginx-module",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_postgres",
                 "stars": 551
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
                 "stars": 512
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "openresty",
                 "repo": "srcache-nginx-module",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "openresty",
                 "repo": "drizzle-nginx-module",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "openresty",
                 "repo": "encrypted-session-nginx-module",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "openresty",
                 "repo": "rds-json-nginx-module",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "openresty",
                 "repo": "xss-nginx-module",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "calio",
                 "repo": "form-input-nginx-module",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "openresty",
                 "repo": "array-var-nginx-module",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_coolkit",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "openresty",
                 "repo": "rds-csv-nginx-module",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": "Core modules come bundled in OpenResty package.\nPlease also note that there is command line client included in OpenResty bundle. The command line client sources can be found on Github.",
@@ -361,7 +383,8 @@
                 "owner": "nbs-system",
                 "repo": "naxsi",
                 "stars": 4811
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
                 "stars": 4339
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "slact",
                 "repo": "nchan",
                 "stars": 3065
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "weibocom",
                 "repo": "nginx-upsync-module",
                 "stars": 1846
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "slact",
                 "repo": "ngx_lua_ipc",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "api7",
                 "repo": "lua-var-nginx-module",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "mneudert",
                 "repo": "sass-nginx-module",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -479,7 +508,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -494,7 +524,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-core",
                 "stars": 853
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -509,7 +540,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -524,7 +556,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-upstream-healthcheck",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -539,7 +572,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -554,7 +588,8 @@
                 "owner": "openresty",
                 "repo": "lua-cjson",
                 "stars": 498
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -569,7 +604,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-lrucache",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -584,7 +620,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-string",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -599,7 +636,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-upload",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -614,7 +652,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-dns",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -629,7 +668,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -644,7 +684,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -659,7 +700,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-shell",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -674,7 +716,8 @@
                 "owner": "openresty",
                 "repo": "lua-tablepool",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -689,7 +732,8 @@
                 "owner": "openresty",
                 "repo": "lua-redis-parser",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -704,7 +748,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-signal",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -719,7 +764,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-shdict-simple",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -734,7 +780,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-memcached-shdict",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -749,7 +796,8 @@
                 "owner": "jkeys089",
                 "repo": "lua-resty-resolver",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -764,7 +812,8 @@
                 "owner": "openresty",
                 "repo": "lua-rds-parser",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": "Core Libraries are bundled in OpenResty package, and you don't need to separately install them.",
@@ -786,7 +835,8 @@
                 "owner": "idevz",
                 "repo": "vanilla",
                 "stars": 1038
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -801,7 +851,8 @@
                 "owner": "sumory",
                 "repo": "lor",
                 "stars": 1018
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -816,7 +867,8 @@
                 "owner": "sailorproject",
                 "repo": "sailor",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -831,7 +883,8 @@
                 "owner": "ostinelli",
                 "repo": "gin",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -846,7 +899,8 @@
                 "owner": "appwilldev",
                 "repo": "moochine",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -861,7 +915,8 @@
                 "owner": "solisoft",
                 "repo": "fasty",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -876,7 +931,8 @@
                 "owner": "luastar",
                 "repo": "luastar",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -891,7 +947,8 @@
                 "owner": "dualface",
                 "repo": "quickserver",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -906,7 +963,8 @@
                 "owner": "Olivine-Labs",
                 "repo": "lusty",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -921,7 +979,8 @@
                 "owner": "pintsized",
                 "repo": "lua-resty-rack",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -936,7 +995,8 @@
                 "owner": "jtarchie",
                 "repo": "sinatra-openresty",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -951,7 +1011,8 @@
                 "owner": "kindy",
                 "repo": "lj-web",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -966,7 +1027,8 @@
                 "owner": "losinggeneration",
                 "repo": "gimlet",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -981,7 +1043,8 @@
                 "owner": "RocksonZeta",
                 "repo": "vicky",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -996,7 +1059,8 @@
                 "owner": "strumasoft",
                 "repo": "octopus",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1075,8 @@
                 "owner": "antonheryanto",
                 "repo": "lua-resty-stack",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1091,8 @@
                 "owner": "mrxx",
                 "repo": "zLua",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1107,8 @@
                 "owner": "doujiang24",
                 "repo": "durap",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1123,8 @@
                 "owner": "bakins",
                 "repo": "stardust",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1139,8 @@
                 "owner": "zhangf911",
                 "repo": "dodolu",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1093,7 +1162,8 @@
                 "owner": "SkyLothar",
                 "repo": "lua-resty-jwt",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1178,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-cookie",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1123,7 +1194,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-session",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1138,7 +1210,8 @@
                 "owner": "iresty",
                 "repo": "Mio",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1153,7 +1226,8 @@
                 "owner": "golgote",
                 "repo": "neturl",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1168,7 +1242,8 @@
                 "owner": "woothee",
                 "repo": "lua-resty-woothee",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1258,8 @@
                 "owner": "detailyang",
                 "repo": "lua-resty-cors",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1198,7 +1274,8 @@
                 "owner": "3scale",
                 "repo": "lua-resty-url",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1290,8 @@
                 "owner": "isage",
                 "repo": "lua-resty-mobile",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1306,8 @@
                 "owner": "anvouk",
                 "repo": "lua-resty-jwt-verification",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1250,7 +1329,8 @@
                 "owner": "vm-001",
                 "repo": "lua-radix-router",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1345,8 @@
                 "owner": "APItools",
                 "repo": "router.lua",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1280,7 +1361,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-route",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1295,7 +1377,8 @@
                 "owner": "iresty",
                 "repo": "lua-resty-libr3",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1310,7 +1393,8 @@
                 "owner": "toritori0318",
                 "repo": "lua-resty-r3",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1332,7 +1416,8 @@
                 "owner": "timebug",
                 "repo": "lua-resty-redis-ratelimit",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1347,7 +1432,8 @@
                 "owner": "upyun",
                 "repo": "lua-resty-limit-rate",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1362,7 +1448,8 @@
                 "owner": "ElvinEfendi",
                 "repo": "lua-resty-global-throttle",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1384,7 +1471,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-reqargs",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1487,8 @@
                 "owner": "agentzh",
                 "repo": "lua-resty-multipart-parser",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1503,8 @@
                 "owner": "antonheryanto",
                 "repo": "lua-resty-post",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1519,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-resty-multipart",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1450,8 +1541,9 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44049
-              }
+                "stars": 44055
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1462,11 +1554,12 @@
                 "archived": false,
                 "id": 180481986,
                 "language": "Lua",
-                "last_commit": "2026-08-27T10:26:55Z",
+                "last_commit": "2026-08-28T00:50:46Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17043
-              }
+                "stars": 17048
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1481,7 +1574,8 @@
                 "owner": "orlabs",
                 "repo": "orange",
                 "stars": 2308
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1590,8 @@
                 "owner": "upyun",
                 "repo": "slardar",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1606,8 @@
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1622,8 @@
                 "owner": "adobe-apiplatform",
                 "repo": "apigateway",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1638,8 @@
                 "owner": "tl-open-source",
                 "repo": "tl-ops-manage",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1654,8 @@
                 "owner": "ysugimoto",
                 "repo": "lua-resty-grpc-gateway",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1670,8 @@
                 "owner": "pirogoeth",
                 "repo": "lsso",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1686,8 @@
                 "owner": "monarchapis",
                 "repo": "gateway-openresty",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1608,7 +1709,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-template",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1623,7 +1725,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-template",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1638,7 +1741,8 @@
                 "owner": "leafo",
                 "repo": "etlua",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1653,7 +1757,8 @@
                 "owner": "openresty",
                 "repo": "lemplate",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1668,7 +1773,8 @@
                 "owner": "DoubleSpout",
                 "repo": "lua-resty-aries",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1683,7 +1789,8 @@
                 "owner": "chenxianyu2015",
                 "repo": "liquid-lua",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1698,7 +1805,8 @@
                 "owner": "lloydzhou",
                 "repo": "lua-resty-tmpl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1720,7 +1828,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-validation",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1735,7 +1844,8 @@
                 "owner": "sailorproject",
                 "repo": "valua",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1756,8 +1866,9 @@
                 "last_commit": "2026-07-01T14:56:19Z",
                 "owner": "zmartzone",
                 "repo": "lua-resty-openidc",
-                "stars": 1073
-              }
+                "stars": 1074
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1883,8 @@
                 "owner": "hypebeast",
                 "repo": "micro-auth",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1899,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-macaroons",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1915,8 @@
                 "owner": "casbin-lua",
                 "repo": "lua-resty-casbin",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1931,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-duo-mobile",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -1839,7 +1954,8 @@
                 "owner": "auto-ssl",
                 "repo": "lua-resty-auto-ssl",
                 "stars": 1988
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1854,7 +1970,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-string",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1869,7 +1986,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-balancer",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1884,7 +2002,8 @@
                 "owner": "spacewander",
                 "repo": "lua-resty-rsa",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1899,7 +2018,8 @@
                 "owner": "fffonion",
                 "repo": "lua-resty-acme",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1914,7 +2034,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-nettle",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1929,7 +2050,8 @@
                 "owner": "fffonion",
                 "repo": "lua-resty-openssl",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1944,7 +2066,8 @@
                 "owner": "torhve",
                 "repo": "lua-resty-letsencrypt",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1959,7 +2082,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-hmac",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1974,7 +2098,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-murmurhash2",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -1989,7 +2114,8 @@
                 "owner": "ruoshan",
                 "repo": "lua-resty-jump-consistent-hash",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2004,7 +2130,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-argon2-ffi",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2019,7 +2146,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-scrypt",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2034,7 +2162,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-xxhash",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2049,7 +2178,8 @@
                 "owner": "TheNorthMemory",
                 "repo": "WXBizMsgCrypt",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2064,7 +2194,8 @@
                 "owner": "aptise",
                 "repo": "lua-resty-peter_sslers",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2210,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-urandom",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2226,8 @@
                 "owner": "golgote",
                 "repo": "lua-resty-hawk",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2242,8 @@
                 "owner": "lilien1010",
                 "repo": "lua-resty-des",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2258,8 @@
                 "owner": "tmthrgd",
                 "repo": "lua-resty-aead",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2139,7 +2274,8 @@
                 "owner": "mynameiscfed",
                 "repo": "lua-resty-fastpbkdf2",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -2161,7 +2297,8 @@
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
                 "stars": 2078
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2176,7 +2313,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-waf",
                 "stars": 1325
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2191,7 +2329,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-limit-traffic",
                 "stars": 853
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2206,7 +2345,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2221,7 +2361,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-balancer",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2236,7 +2377,8 @@
                 "owner": "upyun",
                 "repo": "lua-resty-checkups",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2251,7 +2393,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-iputils",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2266,7 +2409,8 @@
                 "owner": "liseen",
                 "repo": "lua-resty-http",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2281,7 +2425,8 @@
                 "owner": "tokers",
                 "repo": "lua-resty-requests",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2296,7 +2441,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-dns-client",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2311,7 +2457,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-capnproto",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2326,7 +2473,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-healthcheck",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2341,7 +2489,8 @@
                 "owner": "api7",
                 "repo": "lua-resty-ipmatcher",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2356,7 +2505,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-consul",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2371,7 +2521,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-upstream",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2386,7 +2537,8 @@
                 "owner": "fffonion",
                 "repo": "lua-resty-sniproxy",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2401,7 +2553,8 @@
                 "owner": "rrfeng",
                 "repo": "lua-resty-upstream-etcd",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2416,7 +2569,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-http-simple",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2431,7 +2585,8 @@
                 "owner": "tokers",
                 "repo": "lua-resty-http2",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2446,7 +2601,8 @@
                 "owner": "vislee",
                 "repo": "lua-resty-dns-server",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2461,7 +2617,8 @@
                 "owner": "timebug",
                 "repo": "lua-resty-httpipe",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2476,7 +2633,8 @@
                 "owner": "fffonion",
                 "repo": "lua-resty-multiplexer",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2491,7 +2649,8 @@
                 "owner": "starius",
                 "repo": "lua-resty-socks5",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2506,7 +2665,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-tarpit",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2521,7 +2681,8 @@
                 "owner": "mosasiru",
                 "repo": "lua-resty-jsonrpc-batch",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2536,7 +2697,8 @@
                 "owner": "benagricola",
                 "repo": "lua-resty-fastcgi",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2551,7 +2713,8 @@
                 "owner": "hongliang5316",
                 "repo": "lua-resty-ftpclient",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2566,7 +2729,8 @@
                 "owner": "oneoo",
                 "repo": "lua-resty-httpclient",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2581,7 +2745,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-mediador",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2596,7 +2761,8 @@
                 "owner": "mmatuska",
                 "repo": "lua-tus-server",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2611,7 +2777,8 @@
                 "owner": "pinge",
                 "repo": "lua-resty-tornera",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2626,7 +2793,8 @@
                 "owner": "membphis",
                 "repo": "lua-resty-limits",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2641,7 +2809,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-readurl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2656,7 +2825,8 @@
                 "owner": "vislee",
                 "repo": "lua-resty-wrr",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2671,7 +2841,8 @@
                 "owner": "mah0x211",
                 "repo": "lua-httpcli-resty",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2686,7 +2857,8 @@
                 "owner": "vislee",
                 "repo": "lua-resty-dycert",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2701,7 +2873,8 @@
                 "owner": "DorianGray",
                 "repo": "lua-resty-http",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -2723,7 +2896,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2738,7 +2912,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2752,8 +2927,9 @@
                 "last_commit": "2026-08-11T14:59:08Z",
                 "owner": "leafo",
                 "repo": "pgmoon",
-                "stars": 433
-              }
+                "stars": 434
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2768,7 +2944,8 @@
                 "owner": "steve0511",
                 "repo": "resty-redis-cluster",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2783,7 +2960,8 @@
                 "owner": "ledgetech",
                 "repo": "lua-resty-redis-connector",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2798,7 +2976,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2813,7 +2992,8 @@
                 "owner": "api7",
                 "repo": "lua-resty-etcd",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2828,7 +3008,8 @@
                 "owner": "anjia0532",
                 "repo": "lua-resty-redis-util",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2843,7 +3024,8 @@
                 "owner": "isage",
                 "repo": "lua-resty-moongoo",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2858,7 +3040,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-cassandra",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2873,7 +3056,8 @@
                 "owner": "cuiweixie",
                 "repo": "lua-resty-redis-cluster",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2888,7 +3072,8 @@
                 "owner": "LazyZhu",
                 "repo": "lua-resty-ssdb",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2903,7 +3088,8 @@
                 "owner": "duhoobo",
                 "repo": "lua-resty-smtp",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2918,7 +3104,8 @@
                 "owner": "azurewang",
                 "repo": "lua-resty-fastdfs",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2933,7 +3120,8 @@
                 "owner": "iqiyi",
                 "repo": "lua-resty-couchbase",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2948,7 +3136,8 @@
                 "owner": "GUI",
                 "repo": "lua-resty-mail",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2963,7 +3152,8 @@
                 "owner": "jbochi",
                 "repo": "lua-resty-cassandra",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2978,7 +3168,8 @@
                 "owner": "azurewang",
                 "repo": "lua-resty-postgres",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -2993,7 +3184,8 @@
                 "owner": "perusio",
                 "repo": "lua-resty-tarantool",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3008,7 +3200,8 @@
                 "owner": "Olivine-Labs",
                 "repo": "resty-mongol",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3023,7 +3216,8 @@
                 "owner": "kran",
                 "repo": "lua-resty-orm",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3038,7 +3232,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-influx",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3053,7 +3248,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-riak",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3068,7 +3264,8 @@
                 "owner": "nightsailer",
                 "repo": "lua-resty-mongo",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3083,7 +3280,8 @@
                 "owner": "ziontab",
                 "repo": "lua-nginx-tarantool",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3098,7 +3296,8 @@
                 "owner": "rainingmaster",
                 "repo": "lua-shdict-nginx-module",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3113,7 +3312,8 @@
                 "owner": "xiangnanscu",
                 "repo": "lua-resty-mvc",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3128,7 +3328,8 @@
                 "owner": "cloudflarearchive",
                 "repo": "lua-resty-kyototycoon",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3143,7 +3344,8 @@
                 "owner": "jie123108",
                 "repo": "lua-resty-bloomd",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3158,7 +3360,8 @@
                 "owner": "paragasu",
                 "repo": "lua-resty-couchdb",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3173,7 +3376,8 @@
                 "owner": "sjnam",
                 "repo": "lua-resty-kyototycoon",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3188,7 +3392,8 @@
                 "owner": "ZigzagAK",
                 "repo": "lua-resty-couchbase",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3203,7 +3408,8 @@
                 "owner": "boyxuper",
                 "repo": "lua-mongo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3218,7 +3424,8 @@
                 "owner": "holys",
                 "repo": "ledis-openresty",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3233,7 +3440,8 @@
                 "owner": "lblasc",
                 "repo": "lua-telegraf",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3248,7 +3456,8 @@
                 "owner": "myselfghost",
                 "repo": "lua-resty-mysql-connector",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3263,7 +3472,8 @@
                 "owner": "sunkan",
                 "repo": "lua-resty-mogilefs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -3284,8 +3494,9 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19701
-              }
+                "stars": 19705
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3300,7 +3511,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3315,7 +3527,8 @@
                 "owner": "openresty",
                 "repo": "openresty-systemtap-toolkit",
                 "stars": 1668
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3330,7 +3543,8 @@
                 "owner": "lunarmodules",
                 "repo": "busted",
                 "stars": 1630
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3345,7 +3559,8 @@
                 "owner": "openresty",
                 "repo": "stapxx",
                 "stars": 711
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3360,7 +3575,8 @@
                 "owner": "norman",
                 "repo": "telescope",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3375,7 +3591,8 @@
                 "owner": "iresty",
                 "repo": "lua-resty-test",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3390,7 +3607,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-resty-busted",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -3412,7 +3630,8 @@
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3427,7 +3646,8 @@
                 "owner": "wingify",
                 "repo": "lua-resty-rabbitmqstomp",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3442,7 +3662,8 @@
                 "owner": "ledgetech",
                 "repo": "lua-resty-qless",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3457,7 +3678,8 @@
                 "owner": "zhhchen",
                 "repo": "lua-resty-gearman",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3472,7 +3694,8 @@
                 "owner": "rainingmaster",
                 "repo": "lua-resty-nsq",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3487,7 +3710,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-beanstalkd",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3502,7 +3726,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-ironmq",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -3524,7 +3749,8 @@
                 "owner": "dcshi",
                 "repo": "lua-resty-QRcode",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3539,7 +3765,8 @@
                 "owner": "dcshi",
                 "repo": "lua-resty-QRDecode",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -3561,7 +3788,8 @@
                 "owner": "kikito",
                 "repo": "inspect.lua",
                 "stars": 1538
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3576,7 +3804,8 @@
                 "owner": "api7",
                 "repo": "lua-resty-radixtree",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3591,7 +3820,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-resty-jit-uuid",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3606,7 +3836,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-worker-events",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3621,7 +3852,8 @@
                 "owner": "saks",
                 "repo": "lua-resty-repl",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3636,7 +3868,8 @@
                 "owner": "juce",
                 "repo": "lua-resty-shell",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3651,7 +3884,8 @@
                 "owner": "anjia0532",
                 "repo": "lua-resty-maxminddb",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3666,7 +3900,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-uuid",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3681,7 +3916,8 @@
                 "owner": "upyun",
                 "repo": "lua-resty-sync",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3696,7 +3932,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-ffi-libinjection",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3711,7 +3948,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-resty-socket",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3726,7 +3964,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-counter",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3741,7 +3980,8 @@
                 "owner": "spacewander",
                 "repo": "lua-resty-base-encoding",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3756,7 +3996,8 @@
                 "owner": "satrobit",
                 "repo": "lua-resty-wirefilter",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3771,7 +4012,8 @@
                 "owner": "spacewander",
                 "repo": "lua-resty-mime-sniff",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3786,7 +4028,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-fileinfo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3801,7 +4044,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-tsort",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3816,7 +4060,8 @@
                 "owner": "lilien1010",
                 "repo": "lua-resty-maxminddb",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3831,7 +4076,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-postal",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3846,7 +4092,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-taglib",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3861,7 +4108,8 @@
                 "owner": "hqzxzb",
                 "repo": "lua-resty-unique-id",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3876,7 +4124,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-worker-manager",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3891,7 +4140,8 @@
                 "owner": "vislee",
                 "repo": "lua-resty-hyperloglog",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3906,7 +4156,8 @@
                 "owner": "starius",
                 "repo": "lua-resty-batch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3921,7 +4172,8 @@
                 "owner": "vm-001",
                 "repo": "lua-jsonschema-mocker",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3936,7 +4188,8 @@
                 "owner": "rainingmaster",
                 "repo": "NetStorageKit-Lua",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -3958,7 +4211,8 @@
                 "owner": "Tieske",
                 "repo": "date",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -3973,7 +4227,8 @@
                 "owner": "daurnimator",
                 "repo": "luatz",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": "These libraries are not build to using s date time functions (except luatz) like , , , , or , but they may still come handy. At some point we may need a more \"official\" time library for OpenResty.",
@@ -3995,7 +4250,8 @@
                 "owner": "sjnam",
                 "repo": "luajit-zstd",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4010,7 +4266,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-snappy",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4025,7 +4282,8 @@
                 "owner": "sjnam",
                 "repo": "luajit-brotli",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4040,7 +4298,8 @@
                 "owner": "doujiang24",
                 "repo": "lua-resty-zip",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4062,7 +4321,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-json",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4077,7 +4337,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-aho-corasick",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4092,7 +4353,8 @@
                 "owner": "craigbarnes",
                 "repo": "lua-gumbo",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4107,7 +4369,8 @@
                 "owner": "api7",
                 "repo": "jsonschema",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4122,7 +4385,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-libcjson",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4137,7 +4401,8 @@
                 "owner": "doujiang24",
                 "repo": "lua-resty-ini",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4152,7 +4417,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-re2",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4167,7 +4433,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-prettycjson",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4182,7 +4449,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-hoedown",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4197,7 +4465,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-sass",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4212,7 +4481,8 @@
                 "owner": "tianchaijz",
                 "repo": "lua-resty-jsonschema",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4227,7 +4497,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-unistring",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4242,7 +4513,8 @@
                 "owner": "detailyang",
                 "repo": "lua-resty-htmlentities",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4257,7 +4529,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-lanli",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4272,7 +4545,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-utf8rewind",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4287,7 +4561,8 @@
                 "owner": "detailyang",
                 "repo": "lua-resty-jsdecode",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4302,7 +4577,8 @@
                 "owner": "weibreeze",
                 "repo": "lua-resty-breeze",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4324,7 +4600,8 @@
                 "owner": "catwell",
                 "repo": "luajit-msgpack-pure",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4339,7 +4616,8 @@
                 "owner": "chronolaw",
                 "repo": "lua-resty-msgpack",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4361,7 +4639,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-libxl",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4376,7 +4655,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-haru",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4391,7 +4671,8 @@
                 "owner": "tavikukko",
                 "repo": "lua-resty-hpdf",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4413,7 +4694,8 @@
                 "owner": "leafo",
                 "repo": "magick",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4428,7 +4710,8 @@
                 "owner": "libvips",
                 "repo": "lua-vips",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4443,7 +4726,8 @@
                 "owner": "isage",
                 "repo": "lua-imagick",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4458,7 +4742,8 @@
                 "owner": "kwanhur",
                 "repo": "lua-resty-imagick",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4473,7 +4758,8 @@
                 "owner": "leafo",
                 "repo": "giflib",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4488,7 +4774,8 @@
                 "owner": "nyfair",
                 "repo": "fi-luajit",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4510,7 +4797,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-gettext",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4532,7 +4820,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-lrucache",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4547,7 +4836,8 @@
                 "owner": "ledgetech",
                 "repo": "ledge",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4562,7 +4852,8 @@
                 "owner": "thibaultcha",
                 "repo": "lua-resty-mlcache",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4577,7 +4868,8 @@
                 "owner": "mtourne",
                 "repo": "ngx.shcache",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4592,7 +4884,8 @@
                 "owner": "lloydzhou",
                 "repo": "lua-resty-cache",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4607,7 +4900,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-tlc",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4629,7 +4923,8 @@
                 "owner": "lebinh",
                 "repo": "ngxtop",
                 "stars": 6525
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4644,7 +4939,8 @@
                 "owner": "Moesif",
                 "repo": "lua-resty-moesif",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4666,7 +4962,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-logger-socket",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4681,7 +4978,8 @@
                 "owner": "cloudflare",
                 "repo": "raven-lua",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4696,7 +4994,8 @@
                 "owner": "kedyyan",
                 "repo": "lua-resty-logger",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4711,7 +5010,8 @@
                 "owner": "Lumate",
                 "repo": "lua-nginx-logging",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4726,7 +5026,8 @@
                 "owner": "detailyang",
                 "repo": "lua-resty-rfc5424",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4741,7 +5042,8 @@
                 "owner": "msempere",
                 "repo": "lua-resty-fluentd",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4762,8 +5064,9 @@
                 "last_commit": "2025-04-15T14:55:30Z",
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2261
-              }
+                "stars": 2262
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4778,7 +5081,8 @@
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2125
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4793,7 +5097,8 @@
                 "owner": "Yonaba",
                 "repo": "Moses",
                 "stars": 655
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4808,7 +5113,8 @@
                 "owner": "mirven",
                 "repo": "underscore.lua",
                 "stars": 403
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4823,7 +5129,8 @@
                 "owner": "flowyroll",
                 "repo": "lodash.lua",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -4845,7 +5152,8 @@
                 "owner": "adobe-apiplatform",
                 "repo": "api-gateway-aws",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4860,7 +5168,8 @@
                 "owner": "leafo",
                 "repo": "lua-payments",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4875,7 +5184,8 @@
                 "owner": "icowan",
                 "repo": "lua-resty-17mon",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4890,7 +5200,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-s3",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4905,7 +5216,8 @@
                 "owner": "Kong",
                 "repo": "lua-resty-aws",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4920,7 +5232,8 @@
                 "owner": "paragasu",
                 "repo": "lua-resty-aws-auth",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4935,7 +5248,8 @@
                 "owner": "leafo",
                 "repo": "lua-mailgun",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4950,7 +5264,8 @@
                 "owner": "kiddkai",
                 "repo": "lua-resty-aws-sdk",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4965,7 +5280,8 @@
                 "owner": "aCayF",
                 "repo": "lua-resty-upyun",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4980,7 +5296,8 @@
                 "owner": "saks",
                 "repo": "lua-resty-newrelic",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -4995,7 +5312,8 @@
                 "owner": "lilien1010",
                 "repo": "lua-resty-s3uploader",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5010,7 +5328,8 @@
                 "owner": "mashirozx",
                 "repo": "lua-resty-tencent-cos-signature",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5025,7 +5344,8 @@
                 "owner": "Chewbye",
                 "repo": "lua-resty-paypal",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5040,7 +5360,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-github",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5055,7 +5376,8 @@
                 "owner": "paragasu",
                 "repo": "lua-resty-aws-email",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5070,7 +5392,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-hipchat",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -5088,11 +5411,12 @@
                 "archived": false,
                 "id": 203681009,
                 "language": "Lua",
-                "last_commit": "2026-08-19T12:09:17Z",
+                "last_commit": "2026-08-28T21:09:37Z",
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1629
-              }
+                "stars": 1630
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             },
             {
               "node_type": "item",
@@ -5107,7 +5431,8 @@
                 "owner": "satrobit",
                 "repo": "lua-resty-ddos",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -5135,7 +5460,8 @@
                 "owner": "moonbingbing",
                 "repo": "openresty-best-practices",
                 "stars": 3609
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -5157,7 +5483,8 @@
                 "owner": "lebinh",
                 "repo": "nginx-conf",
                 "stars": 2116
-              }
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
             }
           ],
           "description": null,
@@ -5182,8 +5509,9 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4557
-          }
+            "stars": 4559
+          },
+          "first_seen": "2026-08-28T23:00:30.579Z"
         },
         {
           "node_type": "item",
@@ -5198,7 +5526,8 @@
             "owner": "fcambus",
             "repo": "nginx-resources",
             "stars": 3806
-          }
+          },
+          "first_seen": "2026-08-28T23:00:30.579Z"
         },
         {
           "node_type": "item",
@@ -5213,14 +5542,15 @@
             "owner": "forhappy",
             "repo": "awesome-lua",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T23:00:30.579Z"
         }
       ],
       "title": "See Also"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:56:10.749Z",
+    "last_updated": "2026-08-28T23:00:30.579Z",
     "original_repository_info": {
       "archived": false,
       "id": 30886767,
