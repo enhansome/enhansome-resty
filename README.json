@@ -2088,7 +2088,7 @@
                 "open_issues": 191,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44055,
+                "stars": 44057,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2130,7 +2130,7 @@
                 "open_issues": 248,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17048,
+                "stars": 17050,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4904,7 +4904,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19705,
+                "stars": 19707,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4967,7 +4967,7 @@
                 "open_issues": 64,
                 "owner": "lunarmodules",
                 "repo": "busted",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": [
                   "lua",
                   "testing"
@@ -7557,7 +7557,7 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:09:37Z",
+                "last_commit": "2026-08-29T14:17:35Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
@@ -7697,7 +7697,7 @@
             "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4559,
+            "stars": 4560,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:13.079Z",
+    "last_updated": "2026-08-29T17:05:38.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
