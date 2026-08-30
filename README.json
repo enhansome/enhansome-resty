@@ -2085,10 +2085,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-16T14:44:43Z",
-                "open_issues": 191,
+                "open_issues": 193,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44057,
+                "stars": 44059,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2130,7 +2130,7 @@
                 "open_issues": 248,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17050,
+                "stars": 17057,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4904,7 +4904,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19707,
+                "stars": 19714,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -5303,7 +5303,7 @@
                 "open_issues": 4,
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": [
                   "human-readable",
                   "lua",
@@ -6888,7 +6888,7 @@
                 "open_issues": 62,
                 "owner": "lebinh",
                 "repo": "ngxtop",
-                "stars": 6525,
+                "stars": 6526,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -7561,7 +7561,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7697,7 +7697,7 @@
             "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4560,
+            "stars": 4561,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:05:38.870Z",
+    "last_updated": "2026-08-30T17:24:55.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
