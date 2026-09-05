@@ -279,7 +279,7 @@
                 "open_issues": 18,
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
-                "stars": 402,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1149,7 +1149,7 @@
                 "open_issues": 48,
                 "owner": "sailorproject",
                 "repo": "sailor",
-                "stars": 935,
+                "stars": 936,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2085,10 +2085,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T06:28:18Z",
-                "open_issues": 195,
+                "open_issues": 194,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44083,
+                "stars": 44090,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2127,10 +2127,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T05:38:21Z",
-                "open_issues": 241,
+                "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17082,
+                "stars": 17085,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2595,8 +2595,8 @@
                 "id": 39087159,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-01T14:56:19Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-05T02:37:56Z",
+                "open_issues": 70,
                 "owner": "zmartzone",
                 "repo": "lua-resty-openidc",
                 "stars": 1074,
@@ -7561,7 +7561,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1634,
+                "stars": 1633,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7694,7 +7694,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
             "stars": 4566,
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:50:09.368Z",
+    "last_updated": "2026-09-05T16:00:25.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
