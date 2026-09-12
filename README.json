@@ -191,7 +191,7 @@
                 "id": 49554190,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-07T00:51:47Z",
+                "last_commit": "2026-09-12T02:28:11Z",
                 "open_issues": 50,
                 "owner": "openresty",
                 "repo": "stream-lua-nginx-module",
@@ -522,7 +522,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4337,
+                "stars": 4336,
                 "topics": [
                   "pagespeed"
                 ]
@@ -2088,7 +2088,7 @@
                 "open_issues": 199,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44125,
+                "stars": 44124,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2130,7 +2130,7 @@
                 "open_issues": 234,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17110,
+                "stars": 17112,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4904,7 +4904,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19741,
+                "stars": 19743,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4967,7 +4967,7 @@
                 "open_issues": 64,
                 "owner": "lunarmodules",
                 "repo": "busted",
-                "stars": 1635,
+                "stars": 1636,
                 "topics": [
                   "lua",
                   "testing"
@@ -7561,7 +7561,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:00:19.759Z",
+    "last_updated": "2026-09-12T16:15:08.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
