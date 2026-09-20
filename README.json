@@ -69,7 +69,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14038,
+                "stars": 14040,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1935,7 +1935,7 @@
                 "open_issues": 0,
                 "owner": "upyun",
                 "repo": "lua-resty-limit-rate",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "lua-resty",
                   "ratelimit",
@@ -2088,7 +2088,7 @@
                 "open_issues": 200,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44153,
+                "stars": 44160,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2127,10 +2127,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T10:16:11Z",
-                "open_issues": 238,
+                "open_issues": 234,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17146,
+                "stars": 17149,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2829,7 +2829,7 @@
                 "open_issues": 8,
                 "owner": "fffonion",
                 "repo": "lua-resty-acme",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "acme",
                   "acme-lua",
@@ -3355,7 +3355,7 @@
                 "open_issues": 7,
                 "owner": "hamishforbes",
                 "repo": "lua-resty-iputils",
-                "stars": 253,
+                "stars": 252,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -3463,7 +3463,7 @@
                 "open_issues": 10,
                 "owner": "Kong",
                 "repo": "lua-resty-healthcheck",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4904,7 +4904,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19759,
+                "stars": 19762,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7100,7 +7100,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7557,7 +7557,7 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:29:19Z",
+                "last_commit": "2026-09-20T12:48:59Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:24:59.903Z",
+    "last_updated": "2026-09-20T16:46:24.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
