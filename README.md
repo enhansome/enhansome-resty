@@ -85,7 +85,7 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,040 | 🐛 336 | 🌐 C | 📅 2026-09-16 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,042 | 🐛 336 | 🌐 C | 📅 2026-09-21 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,783 | 🐛 396 | 🌐 C | 📅 2026-09-17 — Embed the power of Lua into Nginx
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,782 | 🐛 52 | 🌐 C | 📅 2026-09-16 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,193 | 🐛 32 | 🌐 C | 📅 2026-09-16 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,160 | 🐛 200 | 🌐 Lua | 📅 2026-09-07) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,149 | 🐛 234 | 🌐 Lua | 📅 2026-09-18 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,167 | 🐛 201 | 🌐 Lua | 📅 2026-09-07) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,154 | 🐛 238 | 🌐 Lua | 📅 2026-09-21 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,306 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 323 | 🐛 54 | 🌐 Lua | 📅 2026-09-09 — API gateway module of Red Hat 3scale API Management
@@ -329,13 +329,13 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) ⭐ 854 | 🐛 38 | 🌐 Lua | 📅 2026-09-16 — Lua library for limiting and controlling traffic in OpenResty/ngx\_lua
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) ⭐ 523 | 🐛 32 | 🌐 Lua | 📅 2026-09-18 — Lua WebSocket implementation for the ngx\_lua module
 * [lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) ⭐ 338 | 🐛 15 | 🌐 Lua | 📅 2026-05-07 — A generic consistent hash implementation for OpenResty
-* [lua-resty-checkups](https://github.com/upyun/lua-resty-checkups) ⭐ 261 | 🐛 10 | 🌐 Lua | 📅 2019-11-26 — Manage Nginx upstreams in pure ngx\_lua
+* [lua-resty-checkups](https://github.com/upyun/lua-resty-checkups) ⭐ 262 | 🐛 10 | 🌐 Lua | 📅 2019-11-26 — Manage Nginx upstreams in pure ngx\_lua
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) ⭐ 252 | 🐛 7 | 🌐 Perl | 📅 2022-05-03 — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-http](https://github.com/liseen/lua-resty-http) ⭐ 188 | 🐛 12 | 🌐 Lua | 📅 2017-06-23 by [@liseen](https://github.com/liseen) — Lua http client driver for the ngx\_lua based on the cosocket API
 * [lua-resty-requests](https://github.com/tokers/lua-resty-requests) ⭐ 170 | 🐛 11 | 🌐 Lua | 📅 2020-05-06 — Yet Another HTTP Library for OpenResty
 * [lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) ⚠️ Archived — Lua library containing a DNS client, several utilities, and a load-balancer
 * [lua-capnproto](https://github.com/cloudflare/lua-capnproto) ⭐ 154 | 🐛 2 | 🌐 Lua | 📅 2026-04-24 — Cap’n Proto is an insanely fast data interchange format and capability-based RPC system
-* [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) ⭐ 147 | 🐛 10 | 🌐 Lua | 📅 2026-08-13 — Healthcheck library for OpenResty to validate upstream service status
+* [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) ⭐ 147 | 🐛 11 | 🌐 Lua | 📅 2026-08-13 — Healthcheck library for OpenResty to validate upstream service status
 * [lua-resty-ipmatcher](https://github.com/api7/lua-resty-ipmatcher) ⭐ 136 | 🐛 7 | 🌐 Lua | 📅 2023-06-19 — High performance match IP address for OpenResty Lua
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) ⭐ 130 | 🐛 1 | 🌐 Perl | 📅 2021-08-18 — Library to interface with the consul HTTP API from ngx\_lua
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) ⭐ 116 | 🐛 3 | 🌐 Perl | 📅 2019-12-19 — Upstream connection load balancing and failover module
@@ -408,7 +408,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Testing and Profiling
 
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,762 | 🐛 173 | 🌐 Perl | 📅 2024-10-20 — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,764 | 🐛 173 | 🌐 Perl | 📅 2024-10-20 — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
 * [Test::Nginx](http://search.cpan.org/~agent/Test-Nginx-0.24/lib/Test/Nginx.pm) — Data-driven test scaffold for Nginx C module and OpenResty Lua library development (see real-word tests in [lua-resty-redis](https://github.com/openresty/lua-resty-redis/tree/master/t) ⭐ 1,957 | 🐛 75 | 🌐 Lua | 📅 2026-09-18)
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,668 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted) ⭐ 1,637 | 🐛 64 | 🌐 Lua | 📅 2026-08-25) — Elegant Lua unit testing
@@ -440,7 +440,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) ⭐ 204 | 🐛 3 | 🌐 Lua | 📅 2022-06-02 — Inter process events for Nginx worker processes
 * [lua-resty-repl](https://github.com/saks/lua-resty-repl) ⭐ 184 | 🐛 6 | 🌐 Lua | 📅 2017-07-28 — Interactive console (REPL) for OpenResty and LuaJIT code
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) ⭐ 148 | 🐛 3 | 🌐 Lua | 📅 2022-09-28 — Tiny non-blocking subprocess / shell library to use with OpenResty application server (using [sockproc](https://github.com/juce/sockproc) ⭐ 96 | 🐛 3 | 🌐 C | 📅 2019-06-02)
-* [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) ⭐ 122 | 🐛 0 | 🌐 Lua | 📅 2025-12-08 by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
+* [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) ⭐ 123 | 🐛 0 | 🌐 Lua | 📅 2025-12-08 by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) ⭐ 60 | 🐛 1 | 🌐 Lua | 📅 2026-05-07 — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-sync](https://github.com/upyun/lua-resty-sync) ⭐ 42 | 🐛 1 | 🌐 Lua | 📅 2018-01-03 - This lua-resty library help you to synchronize data(from redis, mysql, memcached and so on) based on the version changes
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) ⭐ 38 | 🐛 0 | 🌐 Lua | 📅 2018-06-22 — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
@@ -549,7 +549,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Functional Programming
 
-* [Lua Fun](https://github.com/rtsisyk/luafun) ⭐ 2,265 | 🐛 48 | 🌐 Lua | 📅 2026-09-10 — Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind
+* [Lua Fun](https://github.com/rtsisyk/luafun) ⭐ 2,265 | 🐛 46 | 🌐 Lua | 📅 2026-09-21 — Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind
 * [Penlight](https://github.com/stevedonovan/Penlight) ⭐ 2,129 | 🐛 45 | 🌐 Lua | 📅 2026-09-03 — Penlight brings together a set of generally useful pure Lua modules, focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions, etc), and OS path management
 * [Moses](https://github.com/Yonaba/Moses) ⭐ 654 | 🐛 5 | 🌐 Lua | 📅 2019-12-18 — A Lua utility-belt library for functional programming. It complements the built-in Lua table library, making easier operations on arrays, lists, collections
 * [Underscore.lua](https://github.com/mirven/underscore.lua) ⭐ 403 | 🐛 15 | 🌐 Lua | 📅 2016-03-22 — Underscore.lua is a Lua library that provides a set of utility functions for dealing with iterators, arrays, tables, and functions
@@ -577,7 +577,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Security
 
-* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,645 | 🐛 0 | 🌐 Lua | 📅 2026-09-20) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
+* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,647 | 🐛 0 | 🌐 Lua | 📅 2026-09-21) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
 * [lua-resty-ddos](https://github.com/satrobit/lua-resty-ddos) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2020-03-11 — This library uses Cookie Validation to detect bots from real users
 
 #### Other Sources for Libraries
@@ -599,7 +599,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Tutorials and Guides
 
-* [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) ⭐ 2,114 | 🐛 2 | 📅 2017-10-13 — A collection of useful Nginx configuration snippets
+* [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) ⭐ 2,113 | 🐛 2 | 📅 2017-10-13 — A collection of useful Nginx configuration snippets
 * [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
 * [Definitely an OpenResty Guide](http://www.staticshin.com/programming/definitely-an-open-resty-guide/)
 * [Top ten things about OpenResty](http://www.staticshin.com/top-tens/things-about-openresty.html)
@@ -633,11 +633,11 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## See Also
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,573 | 🐛 50 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,575 | 🐛 50 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,815 | 🐛 0 | 📅 2026-08-04
 * [awesome-lua](https://github.com/forhappy/awesome-lua) ⭐ 412 | 🐛 4 | 📅 2024-06-11 by [@forhappy](https://github.com/forhappy)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
