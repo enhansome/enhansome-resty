@@ -69,7 +69,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14043,
+                "stars": 14044,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -86,7 +86,7 @@
                 "id": 613829,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-17T00:49:59Z",
+                "last_commit": "2026-09-24T06:40:17Z",
                 "open_issues": 396,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
@@ -132,7 +132,7 @@
                 "open_issues": 32,
                 "owner": "openresty",
                 "repo": "echo-nginx-module",
-                "stars": 1194,
+                "stars": 1195,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -153,7 +153,7 @@
                 "open_issues": 4,
                 "owner": "vision5",
                 "repo": "ngx_devel_kit",
-                "stars": 1025,
+                "stars": 1026,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4811,
+                "stars": 4809,
                 "topics": [
                   "c",
                   "naxsi",
@@ -1149,7 +1149,7 @@
                 "open_issues": 48,
                 "owner": "sailorproject",
                 "repo": "sailor",
-                "stars": 936,
+                "stars": 938,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2084,11 +2084,11 @@
                 "id": 26783295,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T13:39:08Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-24T06:01:18Z",
+                "open_issues": 209,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44183,
+                "stars": 44188,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2126,11 +2126,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:39:36Z",
-                "open_issues": 242,
+                "last_commit": "2026-09-24T12:23:52Z",
+                "open_issues": 244,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17160,
+                "stars": 17165,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4904,7 +4904,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19769,
+                "stars": 19772,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7557,7 +7557,7 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-23T13:43:01Z",
+                "last_commit": "2026-09-24T12:42:18Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
@@ -7718,7 +7718,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3815,
+            "stars": 3816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:50:41.846Z",
+    "last_updated": "2026-09-24T17:50:30.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
