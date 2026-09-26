@@ -85,7 +85,7 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,045 | 🐛 336 | 🌐 C | 📅 2026-09-21 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,046 | 🐛 336 | 🌐 C | 📅 2026-09-21 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,782 | 🐛 398 | 🌐 C | 📅 2026-09-24 — Embed the power of Lua into Nginx
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,782 | 🐛 52 | 🌐 C | 📅 2026-09-16 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,195 | 🐛 32 | 🌐 C | 📅 2026-09-16 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,195 | 🐛 210 | 🌐 Lua | 📅 2026-09-24) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,166 | 🐛 246 | 🌐 Lua | 📅 2026-09-24 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,199 | 🐛 209 | 🌐 Lua | 📅 2026-09-24) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,167 | 🐛 247 | 🌐 Lua | 📅 2026-09-24 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,306 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 324 | 🐛 54 | 🌐 Lua | 📅 2026-09-09 — API gateway module of Red Hat 3scale API Management
@@ -366,7 +366,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) ⭐ 1,955 | 🐛 75 | 🌐 Lua | 📅 2026-09-18 — Lua Redis client driver for the ngx\_lua based on the cosocket API
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) ⭐ 726 | 🐛 54 | 🌐 Lua | 📅 2026-06-20 — Non-blocking Lua MySQL client driver for ngx\_lua based on the cosocket API
-* [pgmoon](https://github.com/leafo/pgmoon) ⭐ 434 | 🐛 20 | 🌐 MoonScript | 📅 2026-09-09 — A pure Lua Postgres driver for use in OpenResy & more
+* [pgmoon](https://github.com/leafo/pgmoon) ⭐ 435 | 🐛 20 | 🌐 MoonScript | 📅 2026-09-09 — A pure Lua Postgres driver for use in OpenResy & more
 * [resty-redis-cluster](https://github.com/steve0511/resty-redis-cluster) ⭐ 386 | 🐛 32 | 🌐 Perl | 📅 2023-08-04 — OpenResty Redis cluster-aware client based on resty-redis-cluster
 * [lua-resty-redis-connector](https://github.com/pintsized/lua-resty-redis-connector) ⭐ 245 | 🐛 9 | 🌐 Lua | 📅 2026-01-23 — Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel
 * [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) ⭐ 216 | 🐛 8 | 🌐 Lua | 📅 2026-09-16 — Lua memcached client driver for the ngx\_lua based on the cosocket API
@@ -515,7 +515,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-vips](https://github.com/jcupitt/lua-vips) ⭐ 148 | 🐛 7 | 🌐 Lua | 📅 2025-12-11 — LuaJIT binding for libvips
 * [Lua IMagick](https://github.com/isage/lua-imagick) ⭐ 79 | 🐛 1 | 🌐 Lua | 📅 2024-07-25 — Lua Pure-C Bindings to ImageMagick
 * [lua-resty-imagick](https://github.com/kwanhur/lua-resty-imagick) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2018-04-20 — Lua bindings to ImageMagick's MagicWand for LuaJIT using FFI
-* [giflib](https://github.com/leafo/giflib) ⭐ 6 | 🐛 3 | 🌐 MoonScript | 📅 2021-02-08 — Lua bindings to GIFLIB for LuaJIT using FFI
+* [giflib](https://github.com/leafo/giflib) ⭐ 6 | 🐛 3 | 🌐 MoonScript | 📅 2026-09-26 — Lua bindings to GIFLIB for LuaJIT using FFI
 * [fi-luajit](https://github.com/nyfair/fi-luajit) ⭐ 3 | 🐛 1 | 🌐 Lua | 📅 2016-08-03 — A LuaJIT interface to FreeImage
 
 #### Localization
@@ -577,7 +577,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Security
 
-* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,649 | 🐛 0 | 🌐 Lua | 📅 2026-09-24) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
+* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,650 | 🐛 0 | 🌐 Lua | 📅 2026-09-26) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
 * [lua-resty-ddos](https://github.com/satrobit/lua-resty-ddos) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2020-03-11 — This library uses Cookie Validation to detect bots from real users
 
 #### Other Sources for Libraries
@@ -640,4 +640,4 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
