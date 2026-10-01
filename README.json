@@ -69,7 +69,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14056,
+                "stars": 14057,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4808,
+                "stars": 4807,
                 "topics": [
                   "c",
                   "naxsi",
@@ -2085,10 +2085,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T04:13:49Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44225,
+                "stars": 44231,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2127,10 +2127,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:15:37Z",
-                "open_issues": 248,
+                "open_issues": 250,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17180,
+                "stars": 17187,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2220,7 +2220,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T09:02:08Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 324,
@@ -4967,7 +4967,7 @@
                 "open_issues": 64,
                 "owner": "lunarmodules",
                 "repo": "busted",
-                "stars": 1641,
+                "stars": 1642,
                 "topics": [
                   "lua",
                   "testing"
@@ -7100,7 +7100,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7756,7 +7756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:25:22.616Z",
+    "last_updated": "2026-10-01T18:50:09.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
