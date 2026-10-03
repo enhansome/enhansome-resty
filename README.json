@@ -518,7 +518,7 @@
                 "open_issues": 76,
                 "owner": "weibocom",
                 "repo": "nginx-upsync-module",
-                "stars": 1846,
+                "stars": 1845,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 222,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44235,
+                "stars": 44239,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19783,
+                "stars": 19784,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7488,11 +7488,11 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:33:23Z",
+                "last_commit": "2026-10-03T11:04:46Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1653,
+                "stars": 1654,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3820,
+            "stars": 3821,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:38.922Z",
+    "last_updated": "2026-10-03T17:13:17.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
