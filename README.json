@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "description": "There are at least three different ways to contribute:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Create a New Issue",
-          "description": "where you describe the needed additions, deletions or changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A List of Quality OpenResty Libraries, and Resources.",
-            "homepage": null,
-            "id": 30886767,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-05-26T11:49:23Z",
-            "open_issues": 2,
-            "owner": "bungle",
-            "repo": "awesome-resty",
-            "stars": 2483,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:00:30.579Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fork this repository",
-          "description": "and make the changes, and create a pull request.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A List of Quality OpenResty Libraries, and Resources.",
-            "homepage": null,
-            "id": 30886767,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-05-26T11:49:23Z",
-            "open_issues": 2,
-            "owner": "bungle",
-            "repo": "awesome-resty",
-            "stars": 2483,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:00:30.579Z"
-        }
-      ],
-      "title": "How to Contribute on this List?"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -321,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
-                "stars": 213,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -522,7 +474,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4334,
+                "stars": 4333,
                 "topics": [
                   "pagespeed"
                 ]
@@ -2088,7 +2040,7 @@
                 "open_issues": 222,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44233,
+                "stars": 44235,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2127,7 +2079,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T08:15:37Z",
-                "open_issues": 251,
+                "open_issues": 254,
                 "owner": "apache",
                 "repo": "apisix",
                 "stars": 17187,
@@ -4883,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19784,
+                "stars": 19783,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4946,7 +4898,7 @@
                 "open_issues": 64,
                 "owner": "lunarmodules",
                 "repo": "busted",
-                "stars": 1642,
+                "stars": 1641,
                 "topics": [
                   "lua",
                   "testing"
@@ -6250,7 +6202,7 @@
             {
               "node_type": "item",
               "title": "lua-resty-jsonschema",
-              "description": "https://github.com/tianchaijz/lua-resty-jsonschema",
+              "description": "tianchaijz/lua-resty-jsonschema",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7540,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1652,
+                "stars": 1653,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7676,7 +7628,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4579,
+            "stars": 4578,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7684,7 +7636,7 @@
         {
           "node_type": "item",
           "title": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
-          "description": null,
+          "description": "fcambus/nginx-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7735,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:22:13.812Z",
+    "last_updated": "2026-10-03T05:03:38.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
