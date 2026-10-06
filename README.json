@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14063,
+                "stars": 14062,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -42,7 +42,7 @@
                 "open_issues": 398,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11786,
+                "stars": 11785,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -126,7 +126,7 @@
                 "open_issues": 28,
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
-                "stars": 905,
+                "stars": 904,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
-                "stars": 212,
+                "stars": 211,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -497,7 +497,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3067,
+                "stars": 3066,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2037,10 +2037,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T13:43:33Z",
-                "open_issues": 223,
+                "open_issues": 222,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44243,
+                "stars": 44246,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2079,10 +2079,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-04T13:23:40Z",
-                "open_issues": 257,
+                "open_issues": 256,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17199,
+                "stars": 17200,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2171,8 +2171,8 @@
                 "id": 53965666,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T09:02:08Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-06T11:17:47Z",
+                "open_issues": 54,
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 324,
@@ -3193,7 +3193,7 @@
                 "open_issues": 38,
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-waf",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "lua",
                   "lua-resty-waf",
@@ -6522,7 +6522,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-12-11T10:34:16Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "libvips",
                 "repo": "lua-vips",
                 "stars": 148,
@@ -7488,7 +7488,7 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-05T11:03:34Z",
+                "last_commit": "2026-10-06T13:03:50Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:18.903Z",
+    "last_updated": "2026-10-06T18:53:13.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
