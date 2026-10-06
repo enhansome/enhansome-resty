@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14062,
+                "stars": 14063,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4806,
+                "stars": 4807,
                 "topics": [
                   "c",
                   "naxsi",
@@ -2040,7 +2040,7 @@
                 "open_issues": 223,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44241,
+                "stars": 44243,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2082,7 +2082,7 @@
                 "open_issues": 257,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17195,
+                "stars": 17199,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2829,7 +2829,7 @@
                 "open_issues": 7,
                 "owner": "fffonion",
                 "repo": "lua-resty-openssl",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "ffi",
                   "lua-nginx-module",
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19784,
+                "stars": 19786,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7031,7 +7031,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7628,7 +7628,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4579,
+            "stars": 4582,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:26:26.310Z",
+    "last_updated": "2026-10-06T10:29:18.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
