@@ -42,7 +42,7 @@
                 "open_issues": 398,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11785,
+                "stars": 11783,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -636,7 +636,7 @@
                 "open_issues": 74,
                 "owner": "openresty",
                 "repo": "lua-resty-core",
-                "stars": 854,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1122,7 +1122,7 @@
                 "open_issues": 4,
                 "owner": "ostinelli",
                 "repo": "gin",
-                "stars": 240,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1715,39 +1715,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "lua-radix-router",
-              "description": "A lightweight, high-performance, radix tree based and OpenAPI friendly API Router for Lua / LuaJIT / OpenResty.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight high-performance and radix tree based router for Lua/LuaJIT/OpenResty",
-                "homepage": "https://vm-001.github.io/lua-radix-router/",
-                "id": 730067396,
-                "language": "Lua",
-                "license": "BSD-2-Clause",
-                "last_commit": "2025-06-10T03:34:53Z",
-                "open_issues": 4,
-                "owner": "vm-001",
-                "repo": "lua-radix-router",
-                "stars": 197,
-                "topics": [
-                  "fast",
-                  "kong",
-                  "lua",
-                  "luajit",
-                  "openapi",
-                  "openresty",
-                  "restful",
-                  "router",
-                  "routing",
-                  "swagger",
-                  "trie"
-                ]
-              },
-              "first_seen": "2026-08-28T23:00:30.579Z"
-            },
-            {
-              "node_type": "item",
               "title": "router.lua",
               "description": "A barebones router for Lua, it matches URLs and executes Lua functions",
               "children": [],
@@ -1764,6 +1731,39 @@
                 "repo": "router.lua",
                 "stars": 195,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T23:00:30.579Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lua-radix-router",
+              "description": "A lightweight, high-performance, radix tree based and OpenAPI friendly API Router for Lua / LuaJIT / OpenResty.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight high-performance and radix tree based router for Lua/LuaJIT/OpenResty",
+                "homepage": "https://vm-001.github.io/lua-radix-router/",
+                "id": 730067396,
+                "language": "Lua",
+                "license": "BSD-2-Clause",
+                "last_commit": "2025-06-10T03:34:53Z",
+                "open_issues": 4,
+                "owner": "vm-001",
+                "repo": "lua-radix-router",
+                "stars": 194,
+                "topics": [
+                  "fast",
+                  "kong",
+                  "lua",
+                  "luajit",
+                  "openapi",
+                  "openresty",
+                  "restful",
+                  "router",
+                  "routing",
+                  "swagger",
+                  "trie"
+                ]
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
             },
@@ -2036,11 +2036,11 @@
                 "id": 26783295,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:00:50Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-09T14:51:11Z",
+                "open_issues": 224,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44252,
+                "stars": 44255,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,8 +2078,8 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T16:12:31Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-09T07:31:59Z",
+                "open_issues": 259,
                 "owner": "apache",
                 "repo": "apisix",
                 "stars": 17205,
@@ -2547,8 +2547,8 @@
                 "id": 39087159,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T02:37:56Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-09T13:49:29Z",
+                "open_issues": 73,
                 "owner": "zmartzone",
                 "repo": "lua-resty-openidc",
                 "stars": 1072,
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19790,
+                "stars": 19788,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6819,7 +6819,7 @@
                 "open_issues": 62,
                 "owner": "lebinh",
                 "repo": "ngxtop",
-                "stars": 6526,
+                "stars": 6525,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -7488,11 +7488,11 @@
                 "id": 203681009,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-08T11:23:25Z",
+                "last_commit": "2026-10-09T08:58:30Z",
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1657,
+                "stars": 1659,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7568,7 +7568,7 @@
                 "open_issues": 38,
                 "owner": "moonbingbing",
                 "repo": "openresty-best-practices",
-                "stars": 3603,
+                "stars": 3602,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7625,10 +7625,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4583,
+            "stars": 4585,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:15:10.590Z",
+    "last_updated": "2026-10-09T18:46:45.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
