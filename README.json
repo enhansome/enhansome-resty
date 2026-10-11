@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14067,
+                "stars": 14066,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -42,7 +42,7 @@
                 "open_issues": 399,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11784,
+                "stars": 11783,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -252,7 +252,7 @@
                 "open_issues": 14,
                 "owner": "openresty",
                 "repo": "drizzle-nginx-module",
-                "stars": 334,
+                "stars": 335,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -474,7 +474,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4333,
+                "stars": 4332,
                 "topics": [
                   "pagespeed"
                 ]
@@ -2040,7 +2040,7 @@
                 "open_issues": 224,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44258,
+                "stars": 44261,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2079,10 +2079,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T07:31:59Z",
-                "open_issues": 260,
+                "open_issues": 262,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17209,
+                "stars": 17212,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19791,
+                "stars": 19789,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6522,7 +6522,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2025-12-11T10:34:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "libvips",
                 "repo": "lua-vips",
                 "stars": 148,
@@ -7031,7 +7031,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2134,
+                "stars": 2133,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7059,7 +7059,7 @@
                 "open_issues": 5,
                 "owner": "Yonaba",
                 "repo": "Moses",
-                "stars": 654,
+                "stars": 653,
                 "topics": [
                   "array",
                   "collection",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:48:41.409Z",
+    "last_updated": "2026-10-11T18:01:53.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
