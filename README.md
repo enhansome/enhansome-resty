@@ -85,7 +85,7 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,073 | 🐛 337 | 🌐 C | 📅 2026-10-15 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,073 | 🐛 336 | 🌐 C | 📅 2026-10-16 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15 — Embed the power of Lua into Nginx
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,782 | 🐛 52 | 🌐 C | 📅 2026-09-16 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,194 | 🐛 32 | 🌐 C | 📅 2026-09-16 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -167,8 +167,8 @@ To learn more about Nginx Core Modules, please refer [Nginx Documentation](http:
 
 * [NAXSI](https://github.com/nbs-system/naxsi) ⚠️ Archived — NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX; NAXSI means Nginx Anti Xss & Sql Injection
 * [ngx\_pagespeed](http://ngxpagespeed.com/) ([Github](https://github.com/pagespeed/ngx_pagespeed) ⚠️ Archived) — Automatic PageSpeed optimization module for Nginx
-* [nchan](https://nchan.io/) ([Github](https://github.com/slact/nchan) ⭐ 3,064 | 🐛 134 | 🌐 C | 📅 2026-09-11) — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE)
-* [nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) ⭐ 1,844 | 🐛 71 | 🌐 C | 📅 2026-10-15 — Nginx C module, syncing upstreams from consul or others, dynamiclly adjusting backend servers weight, needn't reload nginx
+* [nchan](https://nchan.io/) ([Github](https://github.com/slact/nchan) ⭐ 3,063 | 🐛 134 | 🌐 C | 📅 2026-09-11) — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE)
+* [nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) ⭐ 1,844 | 🐛 69 | 🌐 C | 📅 2026-10-16 — Nginx C module, syncing upstreams from consul or others, dynamiclly adjusting backend servers weight, needn't reload nginx
 * [ngx\_lua\_ipc](https://github.com/slact/ngx_lua_ipc) ⭐ 108 | 🐛 3 | 🌐 C | 📅 2019-07-31 — Interprocess communication for Lua Nginx Module and OpenResty — send named alerts with string data between Nginx worker processes
 * [lua-var-nginx-module](https://github.com/api7/lua-var-nginx-module) ⭐ 57 | 🐛 2 | 🌐 Perl | 📅 2022-07-27 — Fetchs Nginx variable by Luajit with FFI way which is fast and cheap
 * [sass-nginx-module](https://github.com/mneudert/sass-nginx-module) ⭐ 39 | 🐛 0 | 🌐 Perl | 📅 2020-05-03 — Syntactically Awesome Nginx Module
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,270 | 🐛 221 | 🌐 Lua | 📅 2026-10-14) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,226 | 🐛 251 | 🌐 Lua | 📅 2026-10-15 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,274 | 🐛 222 | 🌐 Lua | 📅 2026-10-14) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,231 | 🐛 255 | 🌐 Lua | 📅 2026-10-16 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,306 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 324 | 🐛 52 | 🌐 Lua | 📅 2026-10-14 — API gateway module of Red Hat 3scale API Management
@@ -467,7 +467,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 These libraries are not build to using `lua-nginx-module`s date time functions (except luatz) like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15, [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15, [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15, [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15, or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxutctime) ⭐ 11,786 | 🐛 399 | 🌐 C | 📅 2026-10-15, but they may still come handy. At some point we may need a more "official" time library for OpenResty.
 
 * [LuaDate](https://github.com/Tieske/date) ⭐ 275 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 — Lua Date and Time module for Lua 5.x
-* [luatz](https://github.com/daurnimator/luatz) ⭐ 140 | 🐛 4 | 🌐 Lua | 📅 2025-10-19 — A Lua library for time and date manipulation (has a fallback to `ngx.now`)
+* [luatz](https://github.com/daurnimator/luatz) ⭐ 140 | 🐛 7 | 🌐 Lua | 📅 2025-10-19 — A Lua library for time and date manipulation (has a fallback to `ngx.now`)
 * [SciLua Time Library](http://scilua.org/time.html) — Library for the manipulation of dates and periods according to the Gregorian calendar, i.e. the internationally accepted calendar for most uses
 
 #### Compression
@@ -577,7 +577,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Security
 
-* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,662 | 🐛 0 | 🌐 Lua | 📅 2026-10-15) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
+* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) ⭐ 1,663 | 🐛 0 | 🌐 Lua | 📅 2026-10-16) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
 * [lua-resty-ddos](https://github.com/satrobit/lua-resty-ddos) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2020-03-11 — This library uses Cookie Validation to detect bots from real users
 
 #### Other Sources for Libraries
@@ -633,11 +633,11 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## See Also
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,582 | 🐛 49 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,583 | 🐛 49 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,831 | 🐛 0 | 📅 2026-08-04
 * [awesome-lua](https://github.com/forhappy/awesome-lua) ⭐ 414 | 🐛 4 | 📅 2024-06-11 by [@forhappy](https://github.com/forhappy)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
