@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14078,
+                "stars": 14081,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4804,
+                "stars": 4805,
                 "topics": [
                   "c",
                   "naxsi",
@@ -1122,7 +1122,7 @@
                 "open_issues": 4,
                 "owner": "ostinelli",
                 "repo": "gin",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 220,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44282,
+                "stars": 44287,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T01:58:41Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-20T00:50:54Z",
+                "open_issues": 256,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17240,
+                "stars": 17243,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19799,
+                "stars": 19801,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6819,7 +6819,7 @@
                 "open_issues": 62,
                 "owner": "lebinh",
                 "repo": "ngxtop",
-                "stars": 6522,
+                "stars": 6523,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -7492,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1665,
+                "stars": 1664,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7646,7 +7646,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-04T13:42:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "fcambus",
             "repo": "nginx-resources",
             "stars": 3833,
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:15:53.169Z",
+    "last_updated": "2026-10-20T17:56:52.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
