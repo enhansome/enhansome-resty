@@ -21,7 +21,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14081,
+                "stars": 14082,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -39,10 +39,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-19T13:22:12Z",
-                "open_issues": 391,
+                "open_issues": 392,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11786,
+                "stars": 11784,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -474,7 +474,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4331,
+                "stars": 4330,
                 "topics": [
                   "pagespeed"
                 ]
@@ -514,7 +514,7 @@
                 "id": 42633340,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-19T06:04:29Z",
+                "last_commit": "2026-10-20T21:51:53Z",
                 "open_issues": 69,
                 "owner": "weibocom",
                 "repo": "nginx-upsync-module",
@@ -720,7 +720,7 @@
                 "open_issues": 28,
                 "owner": "openresty",
                 "repo": "lua-cjson",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 3,
                 "owner": "idevz",
                 "repo": "vanilla",
-                "stars": 1039,
+                "stars": 1038,
                 "topics": [
                   "lua",
                   "lua-mvc",
@@ -1750,7 +1750,7 @@
                 "open_issues": 4,
                 "owner": "vm-001",
                 "repo": "lua-radix-router",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "fast",
                   "kong",
@@ -2040,7 +2040,7 @@
                 "open_issues": 220,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44287,
+                "stars": 44290,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T00:50:54Z",
-                "open_issues": 256,
+                "last_commit": "2026-10-21T00:55:41Z",
+                "open_issues": 258,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17243,
+                "stars": 17247,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2171,8 +2171,8 @@
                 "id": 53965666,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T15:09:03Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-21T17:35:46Z",
+                "open_issues": 53,
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 324,
@@ -4895,7 +4895,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-08-25T14:38:05Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "lunarmodules",
                 "repo": "busted",
                 "stars": 1642,
@@ -7568,7 +7568,7 @@
                 "open_issues": 38,
                 "owner": "moonbingbing",
                 "repo": "openresty-best-practices",
-                "stars": 3601,
+                "stars": 3602,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 1,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3833,
+            "stars": 3835,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T17:56:52.827Z",
+    "last_updated": "2026-10-21T17:59:51.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
