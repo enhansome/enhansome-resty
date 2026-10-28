@@ -17,8 +17,8 @@
                 "id": 480080,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T09:24:08Z",
-                "open_issues": 331,
+                "last_commit": "2026-10-28T05:24:03Z",
+                "open_issues": 316,
                 "owner": "openresty",
                 "repo": "openresty",
                 "stars": 14106,
@@ -42,7 +42,7 @@
                 "open_issues": 394,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11786,
+                "stars": 11784,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -231,7 +231,7 @@
                 "open_issues": 18,
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
-                "stars": 400,
+                "stars": 401,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4802,
+                "stars": 4800,
                 "topics": [
                   "c",
                   "naxsi",
@@ -497,7 +497,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3062,
+                "stars": 3061,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 222,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44308,
+                "stars": 44314,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T14:12:27Z",
-                "open_issues": 260,
+                "last_commit": "2026-10-28T16:30:27Z",
+                "open_issues": 255,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17256,
+                "stars": 17261,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2172,7 +2172,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T17:35:46Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 323,
@@ -2548,7 +2548,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-25T00:57:46Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "zmartzone",
                 "repo": "lua-resty-openidc",
                 "stars": 1071,
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19808,
+                "stars": 19809,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6819,7 +6819,7 @@
                 "open_issues": 62,
                 "owner": "lebinh",
                 "repo": "ngxtop",
-                "stars": 6521,
+                "stars": 6520,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -7027,8 +7027,8 @@
                 "id": 553803,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:16:02Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-28T08:48:14Z",
+                "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2134,
@@ -7492,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1663,
+                "stars": 1666,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7596,7 +7596,7 @@
                 "open_issues": 2,
                 "owner": "lebinh",
                 "repo": "nginx-conf",
-                "stars": 2110,
+                "stars": 2109,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3842,
+            "stars": 3841,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:39:08.273Z",
+    "last_updated": "2026-10-28T18:48:21.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
@@ -7699,7 +7699,7 @@
       "open_issues": 2,
       "owner": "bungle",
       "repo": "awesome-resty",
-      "stars": 2481,
+      "stars": 2480,
       "topics": []
     },
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",
