@@ -21,7 +21,7 @@
                 "open_issues": 316,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14106,
+                "stars": 14108,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4800,
+                "stars": 4799,
                 "topics": [
                   "c",
                   "naxsi",
@@ -497,7 +497,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3061,
+                "stars": 3062,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -654,7 +654,7 @@
                 "language": "Lua",
                 "license": null,
                 "last_commit": "2026-06-20T14:42:27Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 727,
@@ -2040,7 +2040,7 @@
                 "open_issues": 222,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44314,
+                "stars": 44323,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T16:30:27Z",
-                "open_issues": 255,
+                "last_commit": "2026-10-29T09:48:18Z",
+                "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17261,
+                "stars": 17269,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2221,7 +2221,7 @@
                 "open_issues": 2,
                 "owner": "tl-open-source",
                 "repo": "tl-ops-manage",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "api-gateway",
                   "balance",
@@ -4025,7 +4025,7 @@
                 "language": "Lua",
                 "license": null,
                 "last_commit": "2026-06-20T14:42:27Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 727,
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19809,
+                "stars": 19810,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -5234,7 +5234,7 @@
                 "open_issues": 6,
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "human-readable",
                   "lua",
@@ -7596,7 +7596,7 @@
                 "open_issues": 2,
                 "owner": "lebinh",
                 "repo": "nginx-conf",
-                "stars": 2109,
+                "stars": 2110,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7625,10 +7625,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4591,
+            "stars": 4593,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:48:21.681Z",
+    "last_updated": "2026-10-29T18:55:52.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
