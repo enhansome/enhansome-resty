@@ -21,7 +21,7 @@
                 "open_issues": 316,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14109,
+                "stars": 14110,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -474,7 +474,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4330,
+                "stars": 4329,
                 "topics": [
                   "pagespeed"
                 ]
@@ -2040,7 +2040,7 @@
                 "open_issues": 225,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44335,
+                "stars": 44341,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2079,10 +2079,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T06:38:04Z",
-                "open_issues": 236,
+                "open_issues": 238,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17278,
+                "stars": 17281,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -7596,7 +7596,7 @@
                 "open_issues": 2,
                 "owner": "lebinh",
                 "repo": "nginx-conf",
-                "stars": 2110,
+                "stars": 2109,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3842,
+            "stars": 3844,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:41:01.380Z",
+    "last_updated": "2026-11-01T18:23:59.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
@@ -7699,7 +7699,7 @@
       "open_issues": 2,
       "owner": "bungle",
       "repo": "awesome-resty",
-      "stars": 2479,
+      "stars": 2480,
       "topics": []
     },
     "original_repository_sha": "650162c6fd12acc7dc624ef578fadbdb22b58593",

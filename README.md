@@ -85,7 +85,7 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,109 | 🐛 316 | 🌐 C | 📅 2026-10-28 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,110 | 🐛 316 | 🌐 C | 📅 2026-10-28 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,785 | 🐛 394 | 🌐 C | 📅 2026-10-31 — Embed the power of Lua into Nginx
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,781 | 🐛 51 | 🌐 C | 📅 2026-10-25 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,194 | 🐛 32 | 🌐 C | 📅 2026-10-24 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,335 | 🐛 225 | 🌐 Lua | 📅 2026-10-19) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,278 | 🐛 236 | 🌐 Lua | 📅 2026-10-30 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,341 | 🐛 225 | 🌐 Lua | 📅 2026-10-19) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,281 | 🐛 238 | 🌐 Lua | 📅 2026-10-30 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,306 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 323 | 🐛 57 | 🌐 Lua | 📅 2026-10-21 — API gateway module of Red Hat 3scale API Management
@@ -599,7 +599,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Tutorials and Guides
 
-* [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) ⭐ 2,110 | 🐛 2 | 📅 2017-10-13 — A collection of useful Nginx configuration snippets
+* [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) ⭐ 2,109 | 🐛 2 | 📅 2017-10-13 — A collection of useful Nginx configuration snippets
 * [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
 * [Definitely an OpenResty Guide](http://www.staticshin.com/programming/definitely-an-open-resty-guide/)
 * [Top ten things about OpenResty](http://www.staticshin.com/top-tens/things-about-openresty.html)
@@ -634,10 +634,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 ## See Also
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,595 | 🐛 52 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
-* [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,842 | 🐛 0 | 📅 2026-08-04
+* [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,844 | 🐛 0 | 📅 2026-08-04
 * [awesome-lua](https://github.com/forhappy/awesome-lua) ⭐ 415 | 🐛 4 | 📅 2024-06-11 by [@forhappy](https://github.com/forhappy)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
