@@ -17,7 +17,7 @@
                 "id": 480080,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T05:24:03Z",
+                "last_commit": "2026-11-07T10:35:15Z",
                 "open_issues": 318,
                 "owner": "openresty",
                 "repo": "openresty",
@@ -2082,7 +2082,7 @@
                 "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17301,
+                "stars": 17302,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2221,7 +2221,7 @@
                 "open_issues": 2,
                 "owner": "tl-open-source",
                 "repo": "tl-ops-manage",
-                "stars": 254,
+                "stars": 253,
                 "topics": [
                   "api-gateway",
                   "balance",
@@ -2547,8 +2547,8 @@
                 "id": 39087159,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:57:46Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-07T13:17:31Z",
+                "open_issues": 73,
                 "owner": "zmartzone",
                 "repo": "lua-resty-openidc",
                 "stars": 1073,
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19818,
+                "stars": 19820,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4895,7 +4895,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-08-25T14:38:05Z",
-                "open_issues": 64,
+                "open_issues": 66,
                 "owner": "lunarmodules",
                 "repo": "busted",
                 "stars": 1647,
@@ -7028,7 +7028,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-11-06T08:29:40Z",
-                "open_issues": 42,
+                "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2138,
@@ -7492,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:55:59.727Z",
+    "last_updated": "2026-11-07T18:00:03.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
