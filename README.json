@@ -21,7 +21,7 @@
                 "open_issues": 318,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14117,
+                "stars": 14120,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -38,8 +38,8 @@
                 "id": 613829,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-06T08:22:46Z",
-                "open_issues": 393,
+                "last_commit": "2026-11-08T14:48:56Z",
+                "open_issues": 390,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
                 "stars": 11787,
@@ -143,7 +143,7 @@
                 "id": 49554190,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-06T08:51:29Z",
+                "last_commit": "2026-11-08T10:55:56Z",
                 "open_issues": 53,
                 "owner": "openresty",
                 "repo": "stream-lua-nginx-module",
@@ -632,8 +632,8 @@
                 "id": 9782547,
                 "language": "Lua",
                 "license": null,
-                "last_commit": "2026-11-02T15:12:29Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-08T11:46:01Z",
+                "open_issues": 70,
                 "owner": "openresty",
                 "repo": "lua-resty-core",
                 "stars": 855,
@@ -1563,7 +1563,7 @@
                 "open_issues": 3,
                 "owner": "iresty",
                 "repo": "Mio",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 8,
                 "owner": "iresty",
                 "repo": "lua-resty-libr3",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 228,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44365,
+                "stars": 44366,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2082,7 +2082,7 @@
                 "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17302,
+                "stars": 17304,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2826,7 +2826,7 @@
                 "language": "Lua",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-14T08:14:47Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "fffonion",
                 "repo": "lua-resty-openssl",
                 "stars": 173,
@@ -3349,7 +3349,7 @@
                 "open_issues": 11,
                 "owner": "tokers",
                 "repo": "lua-resty-requests",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "lua-resty",
                   "openresty"
@@ -4835,7 +4835,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19820,
+                "stars": 19821,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -4964,7 +4964,7 @@
                 "open_issues": 2,
                 "owner": "iresty",
                 "repo": "lua-resty-test",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -5259,7 +5259,7 @@
                 "open_issues": 21,
                 "owner": "api7",
                 "repo": "lua-resty-radixtree",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6068,7 +6068,7 @@
                 "open_issues": 21,
                 "owner": "api7",
                 "repo": "jsonschema",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7005,7 +7005,7 @@
                 "open_issues": 44,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2267,
+                "stars": 2266,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -7031,7 +7031,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2138,
+                "stars": 2139,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7492,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7568,7 +7568,7 @@
                 "open_issues": 38,
                 "owner": "moonbingbing",
                 "repo": "openresty-best-practices",
-                "stars": 3601,
+                "stars": 3602,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3851,
+            "stars": 3853,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:00:03.850Z",
+    "last_updated": "2026-11-08T18:19:02.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
