@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T10:35:15Z",
-                "open_issues": 318,
+                "open_issues": 319,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14128,
+                "stars": 14129,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -42,7 +42,7 @@
                 "open_issues": 390,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11793,
+                "stars": 11794,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -497,7 +497,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3063,
+                "stars": 3064,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -717,7 +717,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-18T04:00:32Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "openresty",
                 "repo": "lua-cjson",
                 "stars": 502,
@@ -2040,7 +2040,7 @@
                 "open_issues": 228,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44377,
+                "stars": 44374,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T09:41:52Z",
-                "open_issues": 221,
+                "last_commit": "2026-11-11T09:41:20Z",
+                "open_issues": 226,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17311,
+                "stars": 17315,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -5017,7 +5017,7 @@
                 "open_issues": 83,
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
-                "stars": 814,
+                "stars": 815,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -6611,7 +6611,7 @@
                 "id": 36974377,
                 "language": "Lua",
                 "license": "Unlicense",
-                "last_commit": "2016-08-03T04:32:43Z",
+                "last_commit": "2026-11-11T18:03:50Z",
                 "open_issues": 1,
                 "owner": "nyfair",
                 "repo": "fi-luajit",
@@ -6719,8 +6719,8 @@
                 "id": 89051243,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2024-02-09T20:14:55Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-11T17:59:05Z",
+                "open_issues": 8,
                 "owner": "thibaultcha",
                 "repo": "lua-resty-mlcache",
                 "stars": 421,
@@ -7031,7 +7031,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2140,
+                "stars": 2141,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -7056,7 +7056,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2019-12-18T02:39:18Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "Yonaba",
                 "repo": "Moses",
                 "stars": 652,
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3853,
+            "stars": 3855,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:26:22.578Z",
+    "last_updated": "2026-11-11T20:09:35.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
