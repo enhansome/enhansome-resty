@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "nbs-system",
                 "repo": "naxsi",
-                "stars": 4796,
+                "stars": 4795,
                 "topics": [
                   "c",
                   "naxsi",
@@ -493,7 +493,7 @@
                 "id": 274218,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T15:28:36Z",
+                "last_commit": "2026-11-15T18:13:18Z",
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
@@ -2037,10 +2037,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T02:45:09Z",
-                "open_issues": 231,
+                "open_issues": 233,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44378,
+                "stars": 44381,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2082,7 +2082,7 @@
                 "open_issues": 224,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17322,
+                "stars": 17325,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4103,7 +4103,7 @@
                 "open_issues": 9,
                 "owner": "ledgetech",
                 "repo": "lua-resty-redis-connector",
-                "stars": 245,
+                "stars": 244,
                 "topics": [
                   "lua",
                   "lua-resty-redis",
@@ -4835,7 +4835,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19833,
+                "stars": 19834,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -5059,7 +5059,7 @@
                 "open_issues": 3,
                 "owner": "ledgetech",
                 "repo": "lua-resty-qless",
-                "stars": 96,
+                "stars": 95,
                 "topics": [
                   "job-queue",
                   "lua",
@@ -7005,7 +7005,7 @@
                 "open_issues": 44,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2267,
+                "stars": 2266,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -7596,7 +7596,7 @@
                 "open_issues": 2,
                 "owner": "lebinh",
                 "repo": "nginx-conf",
-                "stars": 2109,
+                "stars": 2108,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7628,7 +7628,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4596,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:42:43.331Z",
+    "last_updated": "2026-11-15T19:20:37.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
