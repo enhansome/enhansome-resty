@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-07T10:35:15Z",
-                "open_issues": 320,
+                "open_issues": 323,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14135,
+                "stars": 14143,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -42,7 +42,7 @@
                 "open_issues": 391,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11795,
+                "stars": 11796,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -60,7 +60,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T12:34:37Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
                 "stars": 1783,
@@ -1358,7 +1358,7 @@
                 "id": 41086323,
                 "language": "Lua",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-08T21:34:11Z",
+                "last_commit": "2026-11-18T10:39:17Z",
                 "open_issues": 0,
                 "owner": "strumasoft",
                 "repo": "octopus",
@@ -2036,11 +2036,11 @@
                 "id": 26783295,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T06:10:16Z",
-                "open_issues": 233,
+                "last_commit": "2026-11-18T21:14:26Z",
+                "open_issues": 234,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44389,
+                "stars": 44397,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T03:35:40Z",
-                "open_issues": 230,
+                "last_commit": "2026-11-18T14:47:56Z",
+                "open_issues": 233,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17334,
+                "stars": 17339,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -4835,7 +4835,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19841,
+                "stars": 19843,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3860,
+            "stars": 3858,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:43:48.855Z",
+    "last_updated": "2026-11-18T21:21:54.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
