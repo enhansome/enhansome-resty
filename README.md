@@ -85,9 +85,9 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,165 | 🐛 321 | 🌐 C | 📅 2026-11-20 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx\_openresty](https://github.com/openresty/openresty) ⭐ 14,166 | 🐛 322 | 🌐 C | 📅 2026-11-22 — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,798 | 🐛 391 | 🌐 C | 📅 2026-11-19 — Embed the power of Lua into Nginx
-* [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,784 | 🐛 52 | 🌐 C | 📅 2026-11-19 — Set and clear input and output headers...more than "add"!
+* [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,785 | 🐛 52 | 🌐 C | 📅 2026-11-19 — Set and clear input and output headers...more than "add"!
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,194 | 🐛 32 | 🌐 C | 📅 2026-10-24 — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 * [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,028 | 🐛 4 | 🌐 C | 📅 2025-02-20 — an Nginx module that adds additional generic tools that module developers can use in their own modules
 * [redis2-nginx-module](https://github.com/openresty/redis2-nginx-module) ⭐ 902 | 🐛 28 | 🌐 C | 📅 2026-10-23 — Nginx upstream module for the Redis 2.0 protocol
@@ -186,7 +186,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) ⭐ 727 | 🐛 55 | 🌐 Lua | 📅 2026-06-20 — Non-blocking Lua MySQL client driver for ngx\_lua based on the cosocket API
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) ⭐ 543 | 🐛 47 | 🌐 Lua | 📅 2026-10-23 — Health Checker for Nginx Upstream Servers in Pure Lua
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) ⭐ 524 | 🐛 32 | 🌐 Lua | 📅 2026-10-23 — Lua WebSocket implementation for the ngx\_lua module
-* [lua-cjson](https://github.com/openresty/lua-cjson) ⭐ 502 | 🐛 31 | 🌐 C | 📅 2026-10-18 — Lua cJSON is a fast JSON encoding / parsing module for Lua
+* [lua-cjson](https://github.com/openresty/lua-cjson) ⭐ 503 | 🐛 31 | 🌐 C | 📅 2026-10-18 — Lua cJSON is a fast JSON encoding / parsing module for Lua
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) ⭐ 461 | 🐛 16 | 🌐 Lua | 📅 2026-11-19 — Lua-land LRU Cache based on LuaJIT FFI
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) ⭐ 445 | 🐛 26 | 🌐 Lua | 📅 2026-10-23 — String utilities and common hash functions for ngx\_lua and LuaJIT
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) ⭐ 414 | 🐛 19 | 🌐 Lua | 📅 2026-10-23 — Streaming reader and parser for HTTP file uploading based on ngx\_lua cosocket
@@ -263,8 +263,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,403 | 🐛 237 | 🌐 Lua | 📅 2026-11-20) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [APISIX](https://github.com/iresty/apisix) ⭐ 17,357 | 🐛 242 | 🌐 Lua | 📅 2026-11-20 — APISIX is a Cloud-Native Microservices API Gateway
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong) ⭐ 44,401 | 🐛 237 | 🌐 Lua | 📅 2026-11-20) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [APISIX](https://github.com/iresty/apisix) ⭐ 17,360 | 🐛 243 | 🌐 Lua | 📅 2026-11-20 — APISIX is a Cloud-Native Microservices API Gateway
 * [Sumory Orange](https://github.com/sumory/orange) ⭐ 2,303 | 🐛 77 | 🌐 Lua | 📅 2023-08-25 — API Gateway
 * [Slardar](https://github.com/upyun/slardar) ⚠️ Archived - Updating your upstream list and run lua scripts without reloading Nginx
 * [3scale APIcast](https://github.com/3scale/apicast) ⭐ 323 | 🐛 56 | 🌐 Lua | 📅 2026-11-05 — API gateway module of Red Hat 3scale API Management
@@ -336,7 +336,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) ⚠️ Archived — Lua library containing a DNS client, several utilities, and a load-balancer
 * [lua-capnproto](https://github.com/cloudflare/lua-capnproto) ⭐ 152 | 🐛 2 | 🌐 Lua | 📅 2026-04-24 — Cap’n Proto is an insanely fast data interchange format and capability-based RPC system
 * [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) ⭐ 147 | 🐛 11 | 🌐 Lua | 📅 2026-08-13 — Healthcheck library for OpenResty to validate upstream service status
-* [lua-resty-ipmatcher](https://github.com/api7/lua-resty-ipmatcher) ⭐ 136 | 🐛 7 | 🌐 Lua | 📅 2023-06-19 — High performance match IP address for OpenResty Lua
+* [lua-resty-ipmatcher](https://github.com/api7/lua-resty-ipmatcher) ⭐ 137 | 🐛 7 | 🌐 Lua | 📅 2023-06-19 — High performance match IP address for OpenResty Lua
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) ⭐ 130 | 🐛 1 | 🌐 Perl | 📅 2026-10-22 — Library to interface with the consul HTTP API from ngx\_lua
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) ⭐ 116 | 🐛 3 | 🌐 Perl | 📅 2019-12-19 — Upstream connection load balancing and failover module
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) ⭐ 86 | 🐛 2 | 🌐 Lua | 📅 2020-08-31 — SNI Proxy based on stream-lua-nginx-module
@@ -408,7 +408,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Testing and Profiling
 
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,848 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,853 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
 * [Test::Nginx](http://search.cpan.org/~agent/Test-Nginx-0.24/lib/Test/Nginx.pm) — Data-driven test scaffold for Nginx C module and OpenResty Lua library development (see real-word tests in [lua-resty-redis](https://github.com/openresty/lua-resty-redis/tree/master/t) ⭐ 1,957 | 🐛 75 | 🌐 Lua | 📅 2026-10-23)
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,665 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted) ⭐ 1,650 | 🐛 67 | 🌐 Lua | 📅 2026-08-25) — Elegant Lua unit testing
@@ -434,7 +434,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Utilities
 
-* [Inspect](https://github.com/kikito/inspect.lua) ⭐ 1,546 | 🐛 7 | 🌐 Lua | 📅 2026-01-05 — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
+* [Inspect](https://github.com/kikito/inspect.lua) ⭐ 1,547 | 🐛 7 | 🌐 Lua | 📅 2026-01-05 — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
 * [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) ⭐ 284 | 🐛 21 | 🌐 C | 📅 2024-11-28 — Lua / OpenResty implementation based on FFI for [rax](https://github.com/antirez/rax) ⭐ 1,272 | 🐛 25 | 🌐 C | 📅 2023-11-26
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) ⭐ 209 | 🐛 0 | 🌐 Perl | 📅 2020-01-10 — A pure LuaJIT (no dependencies) uuid generator tuned for performance
 * [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) ⭐ 203 | 🐛 3 | 🌐 Lua | 📅 2022-06-02 — Inter process events for Nginx worker processes
@@ -633,11 +633,11 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## See Also
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,594 | 🐛 53 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
-* [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,860 | 🐛 0 | 📅 2026-08-04
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,595 | 🐛 53 | 📅 2024-08-11 by [@LewisJEllis](https://github.com/LewisJEllis)
+* [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources) ⭐ 3,864 | 🐛 0 | 📅 2026-08-04
 * [awesome-lua](https://github.com/forhappy/awesome-lua) ⭐ 418 | 🐛 5 | 📅 2024-06-11 by [@forhappy](https://github.com/forhappy)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

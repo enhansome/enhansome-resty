@@ -17,11 +17,11 @@
                 "id": 480080,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T08:21:39Z",
-                "open_issues": 321,
+                "last_commit": "2026-11-22T12:39:02Z",
+                "open_issues": 322,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14165,
+                "stars": 14166,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -63,7 +63,7 @@
                 "open_issues": 52,
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
-                "stars": 1784,
+                "stars": 1785,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -720,7 +720,7 @@
                 "open_issues": 31,
                 "owner": "openresty",
                 "repo": "lua-cjson",
-                "stars": 502,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 237,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44403,
+                "stars": 44401,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2079,10 +2079,10 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T08:16:16Z",
-                "open_issues": 242,
+                "open_issues": 243,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17357,
+                "stars": 17360,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -3436,7 +3436,7 @@
                 "open_issues": 7,
                 "owner": "api7",
                 "repo": "lua-resty-ipmatcher",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "cidr-format",
                   "ipv4",
@@ -4835,7 +4835,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19848,
+                "stars": 19853,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -5234,7 +5234,7 @@
                 "open_issues": 7,
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "human-readable",
                   "lua",
@@ -7628,7 +7628,7 @@
             "open_issues": 53,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3860,
+            "stars": 3864,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:03:10.988Z",
+    "last_updated": "2026-11-22T20:18:06.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
