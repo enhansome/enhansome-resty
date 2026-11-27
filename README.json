@@ -21,7 +21,7 @@
                 "open_issues": 325,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14180,
+                "stars": 14183,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -39,7 +39,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-11-24T04:41:55Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
                 "stars": 11801,
@@ -1542,7 +1542,7 @@
                 "open_issues": 30,
                 "owner": "bungle",
                 "repo": "lua-resty-session",
-                "stars": 343,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 239,
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44420,
+                "stars": 44427,
                 "topics": [
                   "ai",
                   "ai-gateway",
@@ -2078,11 +2078,11 @@
                 "id": 180481986,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T06:10:27Z",
-                "open_issues": 250,
+                "last_commit": "2026-11-27T06:21:47Z",
+                "open_issues": 259,
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17380,
+                "stars": 17382,
                 "topics": [
                   "ai-gateway",
                   "api",
@@ -2172,7 +2172,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T04:50:32Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "3scale",
                 "repo": "APIcast",
                 "stars": 323,
@@ -4835,7 +4835,7 @@
                 "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19859,
+                "stars": 19862,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:30.579Z"
@@ -7218,7 +7218,7 @@
                 "id": 330924252,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T10:03:50Z",
+                "last_commit": "2026-11-27T03:46:25Z",
                 "open_issues": 10,
                 "owner": "Kong",
                 "repo": "lua-resty-aws",
@@ -7492,7 +7492,7 @@
                 "open_issues": 0,
                 "owner": "C0nw0nk",
                 "repo": "Nginx-Lua-Anti-DDoS",
-                "stars": 1678,
+                "stars": 1677,
                 "topics": [
                   "anti-ddos",
                   "anti-ddos-script",
@@ -7649,7 +7649,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3870,
+            "stars": 3872,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7687,7 +7687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:16:07.360Z",
+    "last_updated": "2026-11-27T21:55:18.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A List of Quality OpenResty Libraries, and Resources.",
